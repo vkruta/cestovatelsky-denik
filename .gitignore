@@ -1,5 +1,7 @@
 # soukromá data (celá časová osa, originály a zmenšeniny fotek) – nikdy do repozitáře
-data/
+# (site/data/cesty s ořezanou trasou do repozitáře patří, web se z ní staví)
+/data/
 public/
 __pycache__/
 *.pyc
+/pipeline/data/

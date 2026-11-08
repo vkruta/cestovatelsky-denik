@@ -1,6 +1,6 @@
 # Cestovatelský deník
 
-Statický web s rodinnými cestami: trasa z časové osy Google Maps, vybrané fotky bez lidí z Google Takeoutu a krátké texty česky i anglicky. Dvě šablony (Časopis a Průvodce), mezi kterými přepíná návštěvník.
+Statický web s rodinnými cestami: trasa z časové osy Google Maps, vybrané fotky bez lidí z Google Takeoutu a krátké texty česky i anglicky. Jediná šablona Časopis.
 
 ## Jak web vzniká
 
@@ -17,5 +17,9 @@ python pipeline/zpracuj_trasy.py
 python pipeline/zpracuj_fotky.py
 python pipeline/postav_web.py
 ```
+
+## Zveřejnění
+
+Po každé změně ve větvi `main` web sestaví a nahraje na GitHub Pages workflow `.github/workflows/web.yml`. Staví se jen z obsahu repozitáře (`site/`), soukromá data z `data/` nejsou potřeba. Adresa: https://vkruta.github.io/cestovatelsky-denik/
 
 Mapa používá OpenStreetMap (Leaflet) a pod ní hranice států z Natural Earth (`site/static/svet.json`). Názvy míst určuje offline `pipeline/geokod.py` z dat GeoNames.
