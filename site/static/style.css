@@ -1,0 +1,189 @@
+/* Cestovatelský deník
+   Dvě šablony nad stejným obsahem:
+   - časopis: jeden široký sloupec, velké fotky, mapa jako pás pod hlavičkou
+   - průvodce: obsah vlevo, mapa vpravo přilepená při rolování, menší fotky, víc údajů */
+
+:root {
+  --papir: #f5f6f3;
+  --plocha: #ffffff;
+  --inkoust: #17221f;
+  --tlumene: #5b6a65;
+  --linka: #dde2de;
+  --fjord: #1f5c5a;
+  --fjord-svetly: #e3eeec;
+  --signal: #c8571b;
+  --stin: 0 1px 2px rgb(23 34 31 / 0.06), 0 6px 24px rgb(23 34 31 / 0.06);
+
+  --m-let: #6f5aa8; --m-auto: #c8571b; --m-autobus: #2d7d4f; --m-vlak: #1f5c9e;
+  --m-metro: #8a4f7d; --m-tramvaj: #b08a1e; --m-lod: #1c8ea3; --m-pesky: #4c5a56;
+  --m-kolo: #5e8f2c; --m-pobyt: #93a19c; --m-jine: #93a19c;
+
+  --pismo-titul: "Bricolage Grotesque", "Segoe UI", system-ui, sans-serif;
+  --pismo-text: "Newsreader", Georgia, "Times New Roman", serif;
+  --pismo-data: "JetBrains Mono", ui-monospace, "Cascadia Mono", Consolas, monospace;
+  --sirka: 1180px;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --papir: #111816; --plocha: #18211e; --inkoust: #e6ece9; --tlumene: #9aaba5;
+    --linka: #2a3632; --fjord: #7cc3bd; --fjord-svetly: #1d2d2a; --signal: #ec8a52;
+    --stin: 0 1px 2px rgb(0 0 0 / 0.3), 0 6px 24px rgb(0 0 0 / 0.25);
+    --m-let: #a593dc; --m-auto: #ec8a52; --m-autobus: #5fbf86; --m-vlak: #6fa8e6;
+    --m-metro: #c88bbb; --m-tramvaj: #dcb850; --m-lod: #5cc7da; --m-pesky: #a9b6b1;
+    --m-kolo: #9ccc65; --m-pobyt: #6c7a75; --m-jine: #6c7a75;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --papir: #111816; --plocha: #18211e; --inkoust: #e6ece9; --tlumene: #9aaba5;
+  --linka: #2a3632; --fjord: #7cc3bd; --fjord-svetly: #1d2d2a; --signal: #ec8a52;
+  --stin: 0 1px 2px rgb(0 0 0 / 0.3), 0 6px 24px rgb(0 0 0 / 0.25);
+  --m-let: #a593dc; --m-auto: #ec8a52; --m-autobus: #5fbf86; --m-vlak: #6fa8e6;
+  --m-metro: #c88bbb; --m-tramvaj: #dcb850; --m-lod: #5cc7da; --m-pesky: #a9b6b1;
+  --m-kolo: #9ccc65; --m-pobyt: #6c7a75; --m-jine: #6c7a75;
+  color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+html, body { margin: 0; }
+body { background: var(--papir); color: var(--inkoust); font-family: var(--pismo-text); font-size: 18px; line-height: 1.6; }
+img { max-width: 100%; display: block; }
+a { color: var(--fjord); }
+a:focus-visible, button:focus-visible { outline: 2px solid var(--signal); outline-offset: 2px; }
+h1, h2, h3 { font-family: var(--pismo-titul); line-height: 1.15; text-wrap: balance; margin: 0; }
+.data { font-family: var(--pismo-data); font-size: 0.78rem; letter-spacing: 0.01em; font-variant-numeric: tabular-nums; }
+.obal { max-width: var(--sirka); margin: 0 auto; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+
+/* --- lišta --- */
+.lista { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 1000; background: color-mix(in srgb, var(--papir) 92%, transparent); backdrop-filter: blur(8px); border-bottom: 1px solid var(--linka); }
+.lista .obal { display: flex; align-items: center; gap: 16px; min-height: 56px; flex-wrap: wrap; padding-block: 6px; }
+.logo { font-family: var(--pismo-titul); font-weight: 700; font-size: 1.05rem; color: var(--inkoust); text-decoration: none; margin-right: auto; display: flex; align-items: center; gap: 10px; }
+.logo svg { flex: none; }
+.lista nav { display: flex; align-items: center; gap: 14px; font-family: var(--pismo-titul); font-size: 0.9rem; flex-wrap: wrap; }
+.lista nav a { color: var(--tlumene); text-decoration: none; }
+.lista nav a:hover { color: var(--inkoust); }
+.prepinac { display: inline-flex; border: 1px solid var(--linka); border-radius: 999px; padding: 2px; background: var(--plocha); }
+.prepinac button { font: inherit; font-size: 0.82rem; border: 0; background: none; color: var(--tlumene); padding: 4px 12px; border-radius: 999px; cursor: pointer; }
+.prepinac button[aria-pressed="true"] { background: var(--fjord); color: var(--papir); }
+
+/* --- mapa --- */
+.mapa { background: var(--fjord-svetly); border: 1px solid var(--linka); border-radius: 12px; overflow: hidden; z-index: 1; }
+.leaflet-container { background: var(--fjord-svetly); font-family: var(--pismo-titul); }
+.noc-znacka { width: 26px; height: 26px; border-radius: 50%; background: var(--plocha); border: 2px solid var(--inkoust); color: var(--inkoust); display: grid; place-items: center; font: 700 12px/1 var(--pismo-titul); box-shadow: var(--stin); }
+.legenda { display: flex; flex-wrap: wrap; gap: 6px 14px; margin-top: 10px; font-family: var(--pismo-titul); font-size: 0.8rem; color: var(--tlumene); }
+.legenda span { display: inline-flex; align-items: center; gap: 6px; }
+.legenda i { width: 18px; height: 3px; border-radius: 2px; background: currentColor; display: inline-block; }
+.legenda i.let { background: none; border-top: 2px dashed var(--m-let); height: 0; }
+
+/* --- úvod --- */
+.uvod-hlava { padding-block: 48px 24px; }
+.uvod-hlava h1 { font-size: clamp(2.2rem, 5vw, 3.6rem); letter-spacing: -0.02em; }
+.uvod-hlava p { color: var(--tlumene); font-size: 1.15rem; margin: 10px 0 0; max-width: 60ch; }
+.souhrn { display: flex; flex-wrap: wrap; gap: 8px 28px; margin-top: 20px; }
+.souhrn div { display: flex; flex-direction: column; }
+.souhrn b { font-family: var(--pismo-titul); font-size: 1.6rem; }
+.souhrn small { font-family: var(--pismo-titul); font-size: 0.8rem; color: var(--tlumene); text-transform: uppercase; letter-spacing: 0.06em; }
+.mapa-vse { height: min(62vh, 560px); }
+.karty { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 340px), 1fr)); gap: 24px; padding-block: 32px 64px; }
+.karta { background: var(--plocha); border-radius: 14px; overflow: hidden; box-shadow: var(--stin); text-decoration: none; color: inherit; display: flex; flex-direction: column; transition: transform .2s; }
+.karta:hover { transform: translateY(-3px); }
+.karta .obr { aspect-ratio: 3 / 2; background: var(--fjord-svetly); position: relative; overflow: hidden; }
+.karta .obr img { width: 100%; height: 100%; object-fit: cover; }
+.karta .obr svg { position: absolute; inset: 0; width: 100%; height: 100%; }
+.karta .telo { padding: 18px 20px 20px; display: flex; flex-direction: column; gap: 6px; flex: 1; }
+.karta h2 { font-size: 1.35rem; }
+.karta .kdy { font-family: var(--pismo-titul); font-size: 0.85rem; color: var(--tlumene); }
+.karta p { margin: 4px 0 0; font-size: 1rem; }
+.karta .udaje { margin-top: auto; padding-top: 10px; color: var(--tlumene); }
+
+/* --- stránka cesty: společné --- */
+.hlava { position: relative; color: #fff; background: #23302c; }
+.hlava .foto { position: absolute; inset: 0; }
+.hlava .foto img { width: 100%; height: 100%; object-fit: cover; }
+.hlava .foto::after { content: ""; position: absolute; inset: 0; background: linear-gradient(to top, rgb(10 16 14 / 0.78), rgb(10 16 14 / 0.05) 65%); }
+.hlava .obal { position: relative; display: flex; flex-direction: column; justify-content: flex-end; gap: 10px; }
+.hlava .zeme { font-family: var(--pismo-titul); font-size: 0.85rem; letter-spacing: 0.08em; text-transform: uppercase; opacity: 0.9; }
+.hlava h1 { letter-spacing: -0.02em; }
+.hlava .kdy { font-family: var(--pismo-titul); opacity: 0.9; }
+.perex { font-size: 1.25rem; line-height: 1.55; }
+.cisla { display: flex; flex-wrap: wrap; gap: 10px; }
+.cislo { background: var(--plocha); border: 1px solid var(--linka); border-radius: 10px; padding: 10px 14px; display: flex; flex-direction: column; min-width: 120px; }
+.cislo b { font-family: var(--pismo-titul); font-size: 1.25rem; }
+.cislo small { font-family: var(--pismo-titul); font-size: 0.78rem; color: var(--tlumene); display: flex; align-items: center; gap: 6px; }
+.cislo small i { width: 10px; height: 10px; border-radius: 50%; display: inline-block; }
+.den { scroll-margin-top: 72px; }
+.den-hlava { display: flex; flex-direction: column; gap: 4px; }
+.den-cislo { font-family: var(--pismo-titul); font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--signal); font-weight: 700; }
+.den-meta { color: var(--tlumene); display: flex; flex-wrap: wrap; gap: 4px 14px; }
+.den-meta .chip { display: inline-flex; align-items: center; gap: 5px; }
+.den-meta .chip i { width: 8px; height: 8px; border-radius: 50%; display: inline-block; }
+.den-text { margin: 0; }
+.ukazat { font: 600 0.82rem var(--pismo-titul); color: var(--fjord); background: none; border: 1px solid var(--linka); border-radius: 999px; padding: 4px 12px; cursor: pointer; align-self: flex-start; }
+.ukazat:hover { border-color: var(--fjord); }
+figure { margin: 0; }
+figcaption { font-family: var(--pismo-titul); font-size: 0.85rem; color: var(--tlumene); margin-top: 6px; line-height: 1.4; }
+.foto-misto { background: repeating-linear-gradient(135deg, var(--fjord-svetly) 0 12px, transparent 12px 24px), var(--plocha); border: 1px dashed var(--linka); border-radius: 10px; display: grid; place-items: center; color: var(--tlumene); font: 0.85rem var(--pismo-titul); text-align: center; padding: 12px; }
+.foto-obr { display: block; border-radius: 10px; overflow: hidden; background: var(--fjord-svetly); cursor: zoom-in; }
+.foto-obr img { width: 100%; height: 100%; object-fit: cover; }
+.tipy { background: var(--plocha); border-radius: 14px; padding: 24px; border: 1px solid var(--linka); }
+.tipy h2 { font-size: 1.3rem; margin-bottom: 8px; }
+.tipy ul { margin: 0; padding-left: 1.2em; }
+.dalsi { display: flex; justify-content: space-between; gap: 16px; flex-wrap: wrap; padding-block: 32px 56px; font-family: var(--pismo-titul); }
+.paticka { border-top: 1px solid var(--linka); padding-block: 24px; color: var(--tlumene); font-family: var(--pismo-titul); font-size: 0.82rem; }
+.ukazka { background: var(--signal); color: #fff; font: 600 0.8rem var(--pismo-titul); text-align: center; padding: 6px 16px; }
+
+/* --- šablona ČASOPIS --- */
+[data-sablona="casopis"] .hlava { min-height: min(78vh, 720px); display: flex; }
+[data-sablona="casopis"] .hlava .obal { padding-block: 120px 56px; width: 100%; max-width: 860px; }
+[data-sablona="casopis"] .hlava h1 { font-size: clamp(2.6rem, 7vw, 5rem); }
+[data-sablona="casopis"] .hlava .perex { max-width: 40ch; }
+[data-sablona="casopis"] .rozvrzeni { max-width: 860px; margin: 0 auto; padding: 40px max(16px, env(safe-area-inset-right, 0px)) 0 max(16px, env(safe-area-inset-left, 0px)); display: flex; flex-direction: column; gap: 32px; }
+[data-sablona="casopis"] .bok { order: -1; }
+[data-sablona="casopis"] .mapa-cesta { height: 420px; }
+[data-sablona="casopis"] .dny { display: flex; flex-direction: column; gap: 64px; }
+[data-sablona="casopis"] .den-hlava h2 { font-size: clamp(1.8rem, 4vw, 2.6rem); }
+[data-sablona="casopis"] .den-text { font-size: 1.15rem; max-width: 62ch; }
+[data-sablona="casopis"] .den-text::first-letter { font-family: var(--pismo-titul); font-weight: 700; color: var(--fjord); font-size: 3.2em; float: left; line-height: 0.9; margin: 0.06em 0.08em 0 0; }
+[data-sablona="casopis"] .galerie { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
+[data-sablona="casopis"] .galerie figure:first-child { grid-column: 1 / -1; }
+[data-sablona="casopis"] .galerie figure:first-child .foto-obr, [data-sablona="casopis"] .galerie figure:first-child .foto-misto { aspect-ratio: 16 / 9; }
+[data-sablona="casopis"] .galerie .foto-obr, [data-sablona="casopis"] .galerie .foto-misto { aspect-ratio: 4 / 3; }
+[data-sablona="casopis"] .den-mista, [data-sablona="casopis"] .ukazat { display: none; }
+[data-sablona="casopis"] .cisla-obal { display: none; }
+[data-sablona="casopis"] .souhrn-casopis { display: flex; }
+
+/* --- šablona PRŮVODCE --- */
+[data-sablona="pruvodce"] .hlava .obal { padding-block: 72px 28px; min-height: 280px; }
+[data-sablona="pruvodce"] .hlava h1 { font-size: clamp(2rem, 4.5vw, 3rem); }
+[data-sablona="pruvodce"] .hlava .perex { font-size: 1.1rem; max-width: 70ch; }
+[data-sablona="pruvodce"] .rozvrzeni { max-width: var(--sirka); margin: 0 auto; padding: 28px max(16px, env(safe-area-inset-right, 0px)) 0 max(16px, env(safe-area-inset-left, 0px)); display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 0.9fr); gap: 32px; align-items: start; }
+[data-sablona="pruvodce"] .hlavni { display: flex; flex-direction: column; gap: 24px; min-width: 0; }
+[data-sablona="pruvodce"] .bok { position: sticky; top: calc(72px + env(safe-area-inset-top, 0px)); }
+[data-sablona="pruvodce"] .mapa-cesta { height: calc(100vh - 130px); max-height: 760px; min-height: 360px; }
+[data-sablona="pruvodce"] .dny { display: flex; flex-direction: column; gap: 16px; }
+[data-sablona="pruvodce"] .den { background: var(--plocha); border: 1px solid var(--linka); border-radius: 14px; padding: 20px; display: flex; flex-direction: column; gap: 12px; }
+[data-sablona="pruvodce"] .den.aktivni { border-color: var(--fjord); box-shadow: 0 0 0 1px var(--fjord); }
+[data-sablona="pruvodce"] .den-hlava h2 { font-size: 1.3rem; }
+[data-sablona="pruvodce"] .den-text { font-size: 1rem; }
+[data-sablona="pruvodce"] .galerie { display: grid; grid-template-columns: repeat(auto-fill, minmax(110px, 1fr)); gap: 8px; }
+[data-sablona="pruvodce"] .galerie .foto-obr, [data-sablona="pruvodce"] .galerie .foto-misto { aspect-ratio: 1; }
+[data-sablona="pruvodce"] .galerie figcaption { font-size: 0.75rem; }
+[data-sablona="pruvodce"] .den-mista { font-family: var(--pismo-titul); font-size: 0.85rem; color: var(--tlumene); }
+[data-sablona="pruvodce"] .souhrn-casopis { display: none; }
+.souhrn-casopis { gap: 8px 28px; flex-wrap: wrap; font-family: var(--pismo-titul); }
+
+@media (max-width: 860px) {
+  [data-sablona="pruvodce"] .rozvrzeni { grid-template-columns: minmax(0, 1fr); }
+  [data-sablona="pruvodce"] .bok { position: static; order: -1; }
+  [data-sablona="pruvodce"] .mapa-cesta { height: 360px; }
+  [data-sablona="casopis"] .mapa-cesta { height: 320px; }
+  body { font-size: 17px; }
+}
+
+/* --- prohlížeč fotek --- */
+.lightbox { position: fixed; inset: 0; z-index: 2000; background: rgb(8 12 11 / 0.94); display: grid; grid-template-rows: 1fr auto; padding: max(16px, env(safe-area-inset-top, 0px)) max(16px, env(safe-area-inset-right, 0px)) max(16px, env(safe-area-inset-bottom, 0px)) max(16px, env(safe-area-inset-left, 0px)); }
+.lightbox img { max-height: 100%; max-width: 100%; margin: auto; object-fit: contain; min-height: 0; }
+.lightbox p { color: #e6ece9; text-align: center; font-family: var(--pismo-titul); margin: 12px 0 0; }
+.lightbox button { position: absolute; top: max(12px, env(safe-area-inset-top, 0px)); right: max(12px, env(safe-area-inset-right, 0px)); font: 600 1rem var(--pismo-titul); background: #fff; color: #111; border: 0; border-radius: 999px; padding: 6px 14px; cursor: pointer; }
+
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; scroll-behavior: auto !important; } }

@@ -1,0 +1,30 @@
+[
+  {
+    "slug": "2026-02-lanzarote",
+    "od": "2026-02-21",
+    "do": "2026-02-28",
+    "casova_osa": "2026-02-lanzarote.json",
+    "nazev": {"cs": "Lanzarote", "en": "Lanzarote"}
+  },
+  {
+    "slug": "2026-07-skandinavie",
+    "od": "2026-07-01",
+    "do": "2026-07-09",
+    "casova_osa": "2026-07-skandinavie.json",
+    "nazev": {"cs": "Švédsko a norské fjordy", "en": "Sweden and the Norwegian fjords"}
+  },
+  {
+    "slug": "2026-08-rumunsko",
+    "od": "2026-07-31",
+    "do": "2026-08-09",
+    "casova_osa": "2026-08-rumunsko.json",
+    "nazev": {"cs": "Rumunsko: od Karpat k Černému moři", "en": "Romania: from the Carpathians to the Black Sea"}
+  },
+  {
+    "slug": "2026-10-italie",
+    "od": "2026-10-27",
+    "do": "2026-11-02",
+    "casova_osa": "2026-10-italie.json",
+    "nazev": {"cs": "Neapol, Amalfi a Apulie", "en": "Naples, Amalfi and Apulia"}
+  }
+]

@@ -1,0 +1,264 @@
+{
+ "titulni": 89,
+ "fotky": [
+  {
+   "i": 9,
+   "popis": {
+    "cs": "Výhled na göteborský přístav hned první den.",
+    "en": "A view over Gothenburg harbour on day one."
+   }
+  },
+  {
+   "i": 21,
+   "popis": {
+    "cs": "Městský přívoz na řece Göta älv.",
+    "en": "A city ferry on the Göta älv river."
+   }
+  },
+  {
+   "i": 31,
+   "popis": {
+    "cs": "Nová čtvrť u vody s mrakodrapem Karlatornet.",
+    "en": "A new waterfront district with the Karlatornet tower."
+   }
+  },
+  {
+   "i": 38,
+   "popis": {
+    "cs": "Západ slunce nad střechami Göteborgu.",
+    "en": "Sunset over the roofs of Gothenburg."
+   }
+  },
+  {
+   "i": 39,
+   "popis": {
+    "cs": "Ráno v přístavu kotví loď švédské pobřežní stráže.",
+    "en": "A Swedish Coast Guard ship in the harbour in the morning."
+   }
+  },
+  {
+   "i": 51,
+   "popis": {
+    "cs": "Deštivý večer v Geilu, výhled z balkonu.",
+    "en": "A rainy evening in Geilo, seen from the balcony."
+   }
+  },
+  {
+   "i": 55,
+   "popis": {
+    "cs": "Vodopád v údolí Hemsedal.",
+    "en": "A waterfall in the Hemsedal valley."
+   }
+  },
+  {
+   "i": 63,
+   "popis": {
+    "cs": "Dřevěný sloupový kostel v Borgundu.",
+    "en": "The Borgund stave church."
+   }
+  },
+  {
+   "i": 66,
+   "popis": {
+    "cs": "Modře nasvícená jeskyně v Lærdalském tunelu, nejdelším silničním tunelu světa.",
+    "en": "The blue-lit cave inside the Lærdal Tunnel, the longest road tunnel in the world."
+   }
+  },
+  {
+   "i": 69,
+   "popis": {
+    "cs": "Vodopád Tvindefossen nedaleko Vossu.",
+    "en": "Tvindefossen waterfall near Voss."
+   }
+  },
+  {
+   "i": 86,
+   "popis": {
+    "cs": "Ovce a travnaté střechy nad Vossem.",
+    "en": "Sheep and turf roofs above Voss."
+   }
+  },
+  {
+   "i": 89,
+   "popis": {
+    "cs": "Ranní mlha a zrcadlení na vodě u Dale.",
+    "en": "Morning mist and reflections near Dale."
+   }
+  },
+  {
+   "i": 97,
+   "popis": {
+    "cs": "Dvorky za hanzovním nábřežím Bryggen v Bergenu.",
+    "en": "The back alleys of the Hanseatic Bryggen wharf in Bergen."
+   }
+  },
+  {
+   "i": 99,
+   "popis": {
+    "cs": "Výhled na Bergen z kopce nad městem.",
+    "en": "Bergen from the hills above the city."
+   }
+  },
+  {
+   "i": 118,
+   "popis": {
+    "cs": "Skalnaté pobřeží u Mangeru.",
+    "en": "The rocky coast near Manger."
+   }
+  },
+  {
+   "i": 119,
+   "popis": {
+    "cs": "Dřevěná stezka podél moře.",
+    "en": "A wooden boardwalk along the sea."
+   }
+  },
+  {
+   "i": 128,
+   "popis": {
+    "cs": "Vodopád u Tysse.",
+    "en": "A waterfall near Tysse."
+   }
+  },
+  {
+   "i": 136,
+   "popis": {
+    "cs": "Trajektem přes fjord směrem k Rosendalu.",
+    "en": "Crossing the fjord by ferry towards Rosendal."
+   }
+  },
+  {
+   "i": 154,
+   "popis": {
+    "cs": "Údolí nad Rosendalem s výhledem na fjord.",
+    "en": "The valley above Rosendal with a view of the fjord."
+   }
+  },
+  {
+   "i": 163,
+   "popis": {
+    "cs": "Kozy odpočívají přímo na cestě.",
+    "en": "Goats resting right on the path."
+   }
+  },
+  {
+   "i": 165,
+   "popis": {
+    "cs": "Západ slunce nad Hardangerfjordem.",
+    "en": "Sunset over the Hardangerfjord."
+   }
+  },
+  {
+   "i": 168,
+   "popis": {
+    "cs": "Dvojitý vodopád Låtefossen u silnice nedaleko Oddy.",
+    "en": "The twin Låtefossen waterfall by the road near Odda."
+   }
+  },
+  {
+   "i": 172,
+   "popis": {
+    "cs": "Jezera a sněhová pole na horské planině nad Oddou.",
+    "en": "Lakes and snowfields on the mountain plateau above Odda."
+   }
+  },
+  {
+   "i": 177,
+   "popis": {
+    "cs": "Ovce u horského jezera.",
+    "en": "Sheep by a mountain lake."
+   }
+  },
+  {
+   "i": 185,
+   "popis": {
+    "cs": "Obří oči hledí do krajiny, umělecká instalace na vyhlídce.",
+    "en": "Giant eyes gaze over the landscape, an art installation at a viewpoint."
+   }
+  },
+  {
+   "i": 205,
+   "popis": {
+    "cs": "Hora Gaustatoppen nad Rjukanem.",
+    "en": "Gaustatoppen mountain above Rjukan."
+   }
+  },
+  {
+   "i": 212,
+   "popis": {
+    "cs": "Muzeum The Twist v sochařském parku Kistefos se klene přes řeku.",
+    "en": "The Twist museum at the Kistefos sculpture park spans the river."
+   }
+  },
+  {
+   "i": 235,
+   "popis": {
+    "cs": "Socha s vodopádem v parku Kistefos.",
+    "en": "A waterfall sculpture in the Kistefos park."
+   }
+  },
+  {
+   "i": 237,
+   "popis": {
+    "cs": "Královský palác v Oslu.",
+    "en": "The Royal Palace in Oslo."
+   }
+  },
+  {
+   "i": 245,
+   "popis": {
+    "cs": "Pevnost Akershus z paluby přívozu.",
+    "en": "Akershus Fortress from the ferry deck."
+   }
+  },
+  {
+   "i": 257,
+   "popis": {
+    "cs": "Muzeum Munch na nábřeží v Oslu.",
+    "en": "The Munch museum on the Oslo waterfront."
+   }
+  },
+  {
+   "i": 264,
+   "popis": {
+    "cs": "Socha skokana pod Holmenkollenem.",
+    "en": "A ski jumper statue below Holmenkollen."
+   }
+  },
+  {
+   "i": 265,
+   "popis": {
+    "cs": "Skokanský můstek Holmenkollen nad Oslem.",
+    "en": "The Holmenkollen ski jump above Oslo."
+   }
+  },
+  {
+   "i": 266,
+   "popis": {
+    "cs": "Pod konstrukcí můstku Holmenkollen.",
+    "en": "Beneath the Holmenkollen ski jump."
+   }
+  },
+  {
+   "i": 269,
+   "popis": {
+    "cs": "Plachetnice Viking v göteborském přístavu.",
+    "en": "The barque Viking in Gothenburg harbour."
+   }
+  },
+  {
+   "i": 270,
+   "popis": {
+    "cs": "Zvedací most Hisingsbron přes Göta älv.",
+    "en": "The Hisingsbron lift bridge over the Göta älv."
+   }
+  },
+  {
+   "i": 276,
+   "popis": {
+    "cs": "Mrakodrap Karlatornet se zrcadlí v kanálu.",
+    "en": "The Karlatornet tower reflected in a canal."
+   }
+  }
+ ]
+}

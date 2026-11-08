@@ -1,0 +1,81 @@
+{% extends "base.html" %}
+{% block titul %}{{ k.nazev }} · {{ t.titul }}{% endblock %}
+{% block popis %}{{ k.obsah.perex or k.nazev }}{% endblock %}
+{% block obsah %}
+<main>
+  <section class="hlava">
+    {% if k.titulni %}<div class="foto"><img src="{{ root }}{{ k.titulni.velke }}" alt="{{ k.titulni.popis[lang] }}"></div>{% endif %}
+    <div class="obal">
+      <span class="zeme">{{ k.zeme|join(" · ") }}</span>
+      <h1>{{ k.nazev }}</h1>
+      <span class="kdy">{{ k.rozsah }}</span>
+      {% if k.obsah.perex %}<p class="perex">{{ k.obsah.perex }}</p>{% endif %}
+      <div class="souhrn-casopis data">
+        <span>{{ k.dni }} {{ t.dni }}</span>
+        {% for m, km in mody %}<span>{{ km|cislo(lang) }} {{ t.km }} {{ t.mody[m] }}</span>{% endfor %}
+      </div>
+    </div>
+  </section>
+
+  <div class="rozvrzeni">
+    <aside class="bok">
+      <div id="mapa-cesta" class="mapa mapa-cesta" aria-label="{{ t.cela_trasa }}"></div>
+      <div class="legenda">
+        {% for m, km in mody %}<span style="color: var(--m-{{ m }})"><i class="{{ m }}"></i><span style="color: var(--tlumene)">{{ t.mody[m] }}</span></span>{% endfor %}
+        <button type="button" class="ukazat" data-cela-trasa id="cela-trasa">{{ t.cela_trasa }}</button>
+      </div>
+    </aside>
+
+    <div class="hlavni">
+      <div class="cisla-obal">
+        <div class="cisla">
+          <div class="cislo"><b>{{ k.dni }}</b><small>{{ t.dni }}</small></div>
+          {% for m, km in mody[:3] %}<div class="cislo"><b>{{ km|cislo(lang) }} {{ t.km }}</b><small><i style="background: var(--m-{{ m }})"></i>{{ t.mody[m] }}</small></div>{% endfor %}
+        </div>
+      </div>
+
+      <section class="dny" aria-label="{{ t.den_po_dni }}">
+        {% for d in dny %}
+        <article class="den" id="den-{{ d.cislo }}" data-den="{{ d.cislo }}" data-datum="{{ d.datum }}">
+          <header class="den-hlava">
+            <span class="den-cislo">{{ t.den }} {{ d.cislo }}</span>
+            <h2>{{ d.nazev }}{% if d.nocleh %} · {{ d.nocleh.nazev }}{% endif %}</h2>
+            <div class="den-meta data">
+              {% for m, km in d.km.items() if m != "pesky" %}<span class="chip"><i style="background: var(--m-{{ m }})"></i>{{ km|cislo(lang) }} {{ t.km }} {{ t.mody[m] }}</span>{% endfor %}
+              {% if d.nocleh %}<span>{{ t.nocleh }}: {{ d.nocleh.nazev }} · {{ "%.2f"|format(d.nocleh.p[0]) }}° N, {{ "%.2f"|format(d.nocleh.p[1]|abs) }}° {{ "E" if d.nocleh.p[1] >= 0 else "W" }}</span>{% endif %}
+            </div>
+          </header>
+          {% if d.text %}<p class="den-text">{{ d.text }}</p>{% endif %}
+          {% if d.mista %}<div class="den-mista">{{ t.navstivili }}: {{ d.mista|join(" → ") }}</div>{% endif %}
+          <div class="galerie">
+            {% for f in d.fotky %}
+            <figure>
+              <a class="foto-obr" href="{{ root }}{{ f.velke }}" data-velke="{{ root }}{{ f.velke }}" data-popis="{{ f.popis[lang] }}"><img src="{{ root }}{{ f.velke if loop.first else f.nahled }}" alt="{{ f.popis[lang] }}" loading="lazy" width="{{ f.w }}" height="{{ f.h }}"></a>
+              <figcaption>{{ f.popis[lang] }}</figcaption>
+            </figure>
+            {% else %}
+            <figure><div class="foto-misto">{{ t.foto_chybi }}</div></figure>
+            {% endfor %}
+          </div>
+          <button type="button" class="ukazat" data-ukazat-den="{{ d.datum }}" id="ukazat-{{ d.cislo }}">{{ t.ukazat }}</button>
+        </article>
+        {% endfor %}
+      </section>
+
+      {% if k.obsah.tipy %}
+      <section class="tipy">
+        <h2>{{ t.tipy }}</h2>
+        <ul>{% for tip in k.obsah.tipy %}<li>{{ tip }}</li>{% endfor %}</ul>
+      </section>
+      {% endif %}
+    </div>
+  </div>
+
+  <nav class="obal dalsi">
+    <span>{% if predchozi %}<a href="../{{ predchozi.slug }}/index.html">← {{ t.predchozi }}: {{ predchozi.nazev }}</a>{% endif %}</span>
+    <a href="../../index.html">{{ t.vsechny_cesty }}</a>
+    <span>{% if dalsi %}<a href="../{{ dalsi.slug }}/index.html">{{ t.dalsi }}: {{ dalsi.nazev }} →</a>{% endif %}</span>
+  </nav>
+</main>
+{% endblock %}
+{% block skript %}<script>DenikMapa.cesta("mapa-cesta", {{ mapa_json|safe }});</script>{% endblock %}

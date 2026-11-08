@@ -1,0 +1,42 @@
+{
+ "cs": {
+  "perex": "Devět dní ze švédského Göteborgu přes norské hory, fjordy a pobřeží do Osla a zpátky. Autem jsme najeli přes 1 700 km, viděli desítky vodopádů a projeli nejdelší silniční tunel světa.",
+  "dny": {
+   "2026-07-01": "Přiletěli jsme do Göteborgu a odpoledne se šli projít k vodě. V přístavu jsou veřejná plovoucí koupaliště, městské přívozy jezdí přes řeku Göta älv a nad novou čtvrtí se tyčí mrakodrap Karlatornet. Den skončil západem slunce nad střechami.",
+   "2026-07-02": "Ráno jsme převzali auto a vyrazili do Norska. Byl to nejdelší přejezd celé cesty, asi 475 km přes Drammen a údolím Numedal do horského střediska Geilo. Večer pršelo, takže jsme zůstali na ubytování.",
+   "2026-07-03": "Den vodopádů a jednoho rekordu. V údolí Hemsedal jsme se zastavili u divokého vodopádu, pak u dřevěného sloupového kostela v Borgundu. Lærdalským tunelem, nejdelším silničním tunelem světa, jsme projeli do Aurlandu. Odpoledne nás u Vossu čekal Tvindefossen a večer výhled na údolí s ovcemi a travnatými střechami.",
+   "2026-07-04": "Ráno se nad vodou u Dale držela mlha a hladina zrcadlila hory. V Bergenu jsme prošli hanzovní nábřeží Bryggen s dřevěnými domy a podívali se na město z kopce. Večer jsme dojeli na pobřeží u Mangeru, kde jsme se prošli po skalách a dřevěné stezce podél moře.",
+   "2026-07-05": "Po ranní duze jsme zamířili na jih. U Tysse jsme se zastavili u vodopádů, pak trajektem přepluli fjord a odpoledne dorazili do Rosendalu na břehu Hardangerfjordu. Vycházka údolím nad vesnicí vedla kolem vodopádů a koz odpočívajících na cestě. Večer zapadalo slunce přímo nad fjordem.",
+   "2026-07-06": "U Oddy jsme se zastavili u dvojitého vodopádu Låtefossen, který padá hned vedle silnice. Pak jsme vystoupali na horskou planinu s jezery, sněhovými poli a ovcemi. Přes Åmot jsme dojeli do hor nad Rjukanem s výhledem na Gaustatoppen.",
+   "2026-07-07": "Cestou do Osla jsme se zastavili v sochařském parku Kistefos u Jevnakeru, kde se přes řeku klene muzeum The Twist. Odpoledne jsme v Oslu prošli centrum od Královského paláce k přístavu, svezli se přívozem kolem pevnosti Akershus a večer došli k muzeu Munch.",
+   "2026-07-08": "Ráno jsme vyjeli k můstku Holmenkollen nad Oslem a pak se vydali zpátky do Švédska. Do Göteborgu to bylo asi 320 km po pobřeží.",
+   "2026-07-09": "Poslední ráno v Göteborgu jsme se prošli kolem plachetnice Viking a nového zvedacího mostu Hisingsbron. Pak už nás čekal let domů."
+  },
+  "tipy": [
+   "Lærdalský tunel (24,5 km) je zdarma a má tři modře nasvícené jeskyně na odpočinek.",
+   "Trajekty přes fjordy jezdí často a platí se většinou automaticky podle SPZ, rezervace není potřeba.",
+   "Počasí se v horách mění rychle. Den v dešti v Geilu vystřídalo slunce u fjordů.",
+   "Sochařský park Kistefos je dobrá zastávka na cestě do Osla, stojí za to počítat aspoň se dvěma hodinami."
+  ]
+ },
+ "en": {
+  "perex": "Nine days from Gothenburg in Sweden through Norway's mountains, fjords and coast to Oslo and back. We drove more than 1,700 km, saw dozens of waterfalls and went through the longest road tunnel in the world.",
+  "dny": {
+   "2026-07-01": "We flew into Gothenburg and spent the afternoon by the water. The harbour has public floating pools, city ferries cross the Göta älv river, and the Karlatornet tower rises above a new district. The day ended with a sunset over the rooftops.",
+   "2026-07-02": "In the morning we picked up the car and headed for Norway. It was the longest drive of the trip, about 475 km via Drammen and the Numedal valley to the mountain resort of Geilo. It rained all evening, so we stayed in.",
+   "2026-07-03": "A day of waterfalls and one record. We stopped at a wild waterfall in the Hemsedal valley, then at the wooden Borgund stave church. The Lærdal Tunnel, the longest road tunnel in the world, took us to Aurland. In the afternoon came Tvindefossen near Voss, and in the evening a view of a valley with sheep and turf roofs.",
+   "2026-07-04": "Morning mist hung over the water near Dale and the surface mirrored the mountains. In Bergen we walked the Hanseatic Bryggen wharf with its wooden houses and looked over the city from the hills. In the evening we reached the coast near Manger and walked along the rocks and a boardwalk by the sea.",
+   "2026-07-05": "After a morning rainbow we drove south. We stopped at the waterfalls near Tysse, crossed a fjord by ferry and reached Rosendal on the Hardangerfjord in the afternoon. A walk up the valley above the village passed waterfalls and goats resting on the path. In the evening the sun set right over the fjord.",
+   "2026-07-06": "Near Odda we stopped at the twin Låtefossen waterfall, which falls right next to the road. Then we climbed onto a mountain plateau of lakes, snowfields and sheep. Via Åmot we reached the hills above Rjukan with a view of Gaustatoppen.",
+   "2026-07-07": "On the way to Oslo we stopped at the Kistefos sculpture park near Jevnaker, where The Twist museum spans the river. In the afternoon we walked through central Oslo from the Royal Palace to the harbour, took a ferry past Akershus Fortress and ended the evening at the Munch museum.",
+   "2026-07-08": "In the morning we drove up to the Holmenkollen ski jump above Oslo, then set off back to Sweden. Gothenburg was about 320 km away along the coast.",
+   "2026-07-09": "On our last morning in Gothenburg we walked past the barque Viking and the new Hisingsbron lift bridge. Then it was time to fly home."
+  },
+  "tipy": [
+   "The Lærdal Tunnel (24.5 km) is free and has three blue-lit caves where you can take a break.",
+   "Fjord ferries run often and are usually paid automatically by number plate, no booking needed.",
+   "Mountain weather changes fast. A rainy day in Geilo was followed by sunshine on the fjords.",
+   "The Kistefos sculpture park is a good stop on the way to Oslo; plan for at least two hours."
+  ]
+ }
+}
