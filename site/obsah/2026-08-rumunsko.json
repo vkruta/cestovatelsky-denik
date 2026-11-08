@@ -18,7 +18,19 @@
    "Na hory Bucegi se z Buşteni dá vyjet lanovkou a po plošině vede značená stezka ke Kříži hrdinů.",
    "V okolí Brašova žijí medvědi, cedule u stezek radí chodit ve skupině.",
    "Do Paláce parlamentu se chodí s průvodcem, prohlídku je dobré rezervovat předem."
-  ]
+  ],
+  "cile": {
+   "2026-07-31": "Přílet do Bukurešti",
+   "2026-08-01": "Brašov a hora Tâmpa",
+   "2026-08-02": "Pohoří Bucegi a Kříž hrdinů",
+   "2026-08-03": "Vlakem k Černému moři",
+   "2026-08-04": "Pláže u Konstance",
+   "2026-08-05": "Kasino a minaret v Konstanci",
+   "2026-08-06": "Muzeum umění v Konstanci",
+   "2026-08-07": "Do Bukurešti a večerní centrum",
+   "2026-08-08": "Palác parlamentu a Jarní palác",
+   "2026-08-09": "Vítězný oblouk a cesta domů"
+  }
  },
  "en": {
   "perex": "Ten days in Romania, mostly by train. Brașov and the Bucegi mountains in the Carpathians, four days on the Black Sea in Constanța staying on a houseboat, and Bucharest with its giant Palace of the Parliament to finish.",
@@ -39,6 +51,18 @@
    "A cable car runs from Bușteni up to the Bucegi plateau, and a marked path leads to the Heroes' Cross.",
    "Bears live around Brașov; signs along the paths advise walking in groups.",
    "The Palace of the Parliament can only be visited on a guided tour, so book ahead."
-  ]
+  ],
+  "cile": {
+   "2026-07-31": "Arrival in Bucharest",
+   "2026-08-01": "Brașov and Tâmpa hill",
+   "2026-08-02": "The Bucegi mountains and the Heroes' Cross",
+   "2026-08-03": "By train to the Black Sea",
+   "2026-08-04": "Beaches near Constanța",
+   "2026-08-05": "Constanța's casino and minaret",
+   "2026-08-06": "The Constanța Art Museum",
+   "2026-08-07": "To Bucharest and the centre at dusk",
+   "2026-08-08": "The Palace of the Parliament and the Spring Palace",
+   "2026-08-09": "The Arch of Triumph and home"
+  }
  }
 }

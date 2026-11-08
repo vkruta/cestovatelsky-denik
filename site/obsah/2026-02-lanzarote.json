@@ -16,7 +16,17 @@
    "Túra na Caldera Blanca je nenáročná, ale po ostré lávě se hodí pevné boty.",
    "Pasát fouká skoro pořád, na vyhlídky na útesech se hodí bunda.",
    "Zahrada Jardín de Cactus a lávové tunely na severu se dají spojit do jednoho výletu."
-  ]
+  ],
+  "cile": {
+   "2026-02-21": "Přílet a pobřeží Arrecife",
+   "2026-02-22": "Útesy Famara a trh v Teguise",
+   "2026-02-23": "Kráter Caldera Blanca",
+   "2026-02-24": "La Geria, El Golfo a solná pole",
+   "2026-02-25": "Pevnost a laguna v Arrecife",
+   "2026-02-26": "Lávový tunel a Jardín de Cactus",
+   "2026-02-27": "Papagayo a Playa Blanca",
+   "2026-02-28": "Cesta domů"
+  }
  },
  "en": {
   "perex": "A February week on Lanzarote while it was winter at home. Driving around the volcanic island, from salt pans and vineyards in the south to lava tubes and a cactus garden in the north, with a hike to the Caldera Blanca crater and the fortress in Arrecife.",
@@ -35,6 +45,16 @@
    "The Caldera Blanca hike is easy, but sturdy shoes help on the sharp lava.",
    "The trade wind blows almost constantly, so a jacket helps at the clifftop viewpoints.",
    "Jardín de Cactus and the lava tubes in the north fit well into one trip."
-  ]
+  ],
+  "cile": {
+   "2026-02-21": "Arrival and the Arrecife coast",
+   "2026-02-22": "Famara cliffs and the Teguise market",
+   "2026-02-23": "The Caldera Blanca crater",
+   "2026-02-24": "La Geria, El Golfo and the salt pans",
+   "2026-02-25": "Arrecife's fortress and lagoon",
+   "2026-02-26": "A lava tube and Jardín de Cactus",
+   "2026-02-27": "Papagayo and Playa Blanca",
+   "2026-02-28": "Heading home"
+  }
  }
 }

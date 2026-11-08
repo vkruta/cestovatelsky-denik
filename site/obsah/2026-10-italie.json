@@ -15,7 +15,16 @@
    "Pobřeží Amalfi je nejhezčí z lodi, z vody je vidět celá silueta Positana.",
    "Ve stanici metra Toledo v Neapoli stojí za to vystoupit jen kvůli mozaikám.",
    "Matera se nejlépe poznává pěšky z vyhlídek nad roklí, počítejte s množstvím schodů."
-  ]
+  ],
+  "cile": {
+   "2026-10-27": "Večerní Neapol",
+   "2026-10-28": "Pobřeží Amalfi a výhled na Vesuv",
+   "2026-10-29": "Z Neapole do Bari",
+   "2026-10-30": "Brindisi a Monopoli",
+   "2026-10-31": "Matera",
+   "2026-11-01": "Alberobello a Locorotondo",
+   "2026-11-02": "Cesta domů"
+  }
  },
  "en": {
   "perex": "An autumn week in southern Italy without a car, travelling only by train, boat and bus. Naples and a boat trip along the Amalfi Coast, then Bari as a base for trips to Brindisi, Monopoli, Matera and the white trulli of Alberobello.",
@@ -33,6 +42,15 @@
    "The Amalfi Coast looks best from a boat, with the whole outline of Positano visible from the water.",
    "Toledo metro station in Naples is worth getting off at just for the mosaics.",
    "Matera is best explored on foot from the viewpoints above the ravine; expect plenty of steps."
-  ]
+  ],
+  "cile": {
+   "2026-10-27": "Naples by night",
+   "2026-10-28": "The Amalfi Coast and a view of Vesuvius",
+   "2026-10-29": "From Naples to Bari",
+   "2026-10-30": "Brindisi and Monopoli",
+   "2026-10-31": "Matera",
+   "2026-11-01": "Alberobello and Locorotondo",
+   "2026-11-02": "Heading home"
+  }
  }
 }

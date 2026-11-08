@@ -17,7 +17,18 @@
    "Trajekty přes fjordy jezdí často a platí se většinou automaticky podle SPZ, rezervace není potřeba.",
    "Počasí se v horách mění rychle. Den v dešti v Geilu vystřídalo slunce u fjordů.",
    "Sochařský park Kistefos je dobrá zastávka na cestě do Osla, stojí za to počítat aspoň se dvěma hodinami."
-  ]
+  ],
+  "cile": {
+   "2026-07-01": "Göteborg a přístav",
+   "2026-07-02": "Přes hranice do Norska až do Geila",
+   "2026-07-03": "Borgund, Lærdalský tunel a Tvindefossen",
+   "2026-07-04": "Bergen a Bryggen",
+   "2026-07-05": "Vodopády u Tysse a Rosendal",
+   "2026-07-06": "Låtefossen a horská planina",
+   "2026-07-07": "Kistefos a Oslo",
+   "2026-07-08": "Holmenkollen a návrat do Švédska",
+   "2026-07-09": "Poslední ráno v Göteborgu"
+  }
  },
  "en": {
   "perex": "Nine days from Gothenburg in Sweden through Norway's mountains, fjords and coast to Oslo and back. More than 1,700 km by car, dozens of waterfalls, wooden churches, fjord ferries and a drive through the longest road tunnel in the world.",
@@ -37,6 +48,17 @@
    "Fjord ferries run often and are usually paid automatically by number plate, no booking needed.",
    "Mountain weather changes fast. A rainy day in Geilo was followed by sunshine on the fjords.",
    "The Kistefos sculpture park is a good stop on the way to Oslo; plan for at least two hours."
-  ]
+  ],
+  "cile": {
+   "2026-07-01": "Gothenburg and its harbour",
+   "2026-07-02": "Across the border to Geilo",
+   "2026-07-03": "Borgund, the Lærdal Tunnel and Tvindefossen",
+   "2026-07-04": "Bergen and Bryggen",
+   "2026-07-05": "Tysse waterfalls and Rosendal",
+   "2026-07-06": "Låtefossen and the mountain plateau",
+   "2026-07-07": "Kistefos and Oslo",
+   "2026-07-08": "Holmenkollen and back to Sweden",
+   "2026-07-09": "A last morning in Gothenburg"
+  }
  }
 }
