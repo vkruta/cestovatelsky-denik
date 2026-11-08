@@ -43,7 +43,7 @@
           <div class="galerie">
             {% for f in d.fotky %}
             <figure>
-              <a class="foto-obr" href="{{ root }}{{ f.velke }}" data-velke="{{ root }}{{ f.velke }}" data-popis="{{ f.popis[lang] }}"><img src="{{ root }}{{ f.velke if loop.first else f.nahled }}" alt="{{ f.popis[lang] }}" loading="lazy" width="{{ f.w }}" height="{{ f.h }}"></a>
+              <a class="foto-obr" href="{{ root }}{{ f.velke }}" data-velke="{{ root }}{{ f.velke }}" data-popis="{{ f.popis[lang] }}"><img src="{{ root }}{{ f.velke if loop.first else f.nahled }}"{% if not loop.first %} srcset="{{ root }}{{ f.nahled }} 480w, {{ root }}{{ f.velke }} 1600w" sizes="(min-width: 860px) 420px, 50vw"{% endif %} alt="{{ f.popis[lang] }}" loading="lazy" width="{{ f.w }}" height="{{ f.h }}"></a>
               <figcaption>{{ f.popis[lang] }}</figcaption>
             </figure>
             {% endfor %}
