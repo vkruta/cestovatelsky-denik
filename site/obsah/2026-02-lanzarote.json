@@ -1,8 +1,40 @@
 {
  "cs": {
-  "perex": "Týden na Lanzarote v únoru, kdy je doma zima. Autem jsme objeli sopečný ostrov od Yaizy na jihu po Haríu na severu."
+  "perex": "Týden na Lanzarote v únoru, kdy je doma zima. Autem po sopečném ostrově od solných polí a vinic na jihu po lávové tunely a kaktusovou zahradu na severu, s výstupem na kráter Caldera Blanca a pevností v Arrecife.",
+  "dny": {
+   "2026-02-21": "Přílet na letiště u Arrecife a krátký přesun na ubytování ve městě, které bylo základnou na celý týden. Odpoledne první procházka k moři: pláž s tmavým pískem a dlouhá promenáda s cyklostezkou podél pobřeží. Na nábřeží stojí větrné sochy, které se v neustálém pasátu točí.",
+   "2026-02-22": "Výlet na severozápad ostrova k útesům Famara. Z vyhlídky na hraně skal je vidět dlouhá pláž pod nimi a na hřebeni nad útesy stojí bílé radarové kopule. Cestou zpět zastávka v Teguise, bývalém hlavním městě ostrova, kde se každou neděli koná velký trh v uličkách kolem kostela. Odpoledne ještě dolů na pláž Famara, odkud útesy působí ještě mohutněji.",
+   "2026-02-23": "Den túry na kráter Caldera Blanca. Stezka začíná nedaleko Tinaja a vede přes rozlehlé lávové pole, černé a ostré, s malým sopečným kuželem po cestě. Po výstupu na okraj kráteru se otevře pohled do jeho pravidelné mísy a přes lávu až k moři. Okruh po hraně kráteru patří k nejhezčím vycházkám na ostrově. Odpoledne odpočinek u moře.",
+   "2026-02-24": "Nejdelší den za volantem, téměř sto kilometrů po jihu ostrova. Ráno úzká soutěska ve vrstvách sopečného tufu nedaleko Tías, kde jsou stěny vymodelované vodou do vln. Pak vinařská oblast La Geria: každá réva tu roste ve vlastní jámě v černém popelu, chráněná půlkruhovou kamennou zídkou před větrem. U El Golfo zastávka u zelené laguny Charco Verde, oddělené od moře jen pruhem černého písku. Na závěr solná pole Salinas de Janubio pod sopkami.",
+   "2026-02-25": "Den převážně pěšky v Arrecife. Brzy ráno východ slunce nad pobřežím a pak procházka k pevnosti Castillo de San Gabriel na ostrůvku, kam vede kamenný most Puente de las Bolas se dvěma věžičkami. Dál k laguně Charco de San Ginés, kde kotví malé rybářské lodě a kolem stojí bílé domky. Odpoledne koupaliště s mořskou vodou, kde se bazény mísí s černou lávou a kaktusy. Večer západ slunce nad mořem.",
+   "2026-02-26": "Výlet na sever ostrova. Ráno zelenější pobřeží u Haríi, kde mezi lávovými kameny roste nízká vegetace. Pak prohlídka lávového tunelu: podzemní chodby vzniklé při sopečné erupci, barevné stěny a jezírko, ve kterém se zrcadlí strop tak dokonale, že vypadá jako hluboká propast. Odpoledne Jardín de Cactus, zahrada v bývalém lomu s tisíci kaktusy na terasách z lávového kamene a s bílým větrným mlýnem nad ní.",
+   "2026-02-27": "Poslední celý den na jihu u Playa Blanca. Nad ostrovem visel opar saharského prachu, takže moře i nebe měly mléčnou barvu. Ráno vyhlídka na pláže Papagayo v zátokách pod útesy. Pak podél pobřeží k věži Castillo de las Coloradas na skále nad mořem a k přístavu Marina Rubicón s bílými domy. Odpoledne návrat do Arrecife.",
+   "2026-02-28": "Ráno poslední procházka a pak cesta na letiště. Let domů přes Frankfurt."
+  },
+  "tipy": [
+   "Na ostrově se vyplatí půjčit auto, vzdálenosti jsou malé a za den se dá objet celý jih nebo sever.",
+   "Túra na Caldera Blanca je nenáročná, ale po ostré lávě se hodí pevné boty.",
+   "Pasát fouká skoro pořád, na vyhlídky na útesech se hodí bunda.",
+   "Zahrada Jardín de Cactus a lávové tunely na severu se dají spojit do jednoho výletu."
+  ]
  },
  "en": {
-  "perex": "A February week on Lanzarote while it was winter at home. We drove around the volcanic island from Yaiza in the south to Haría in the north."
+  "perex": "A February week on Lanzarote while it was winter at home. Driving around the volcanic island, from salt pans and vineyards in the south to lava tubes and a cactus garden in the north, with a hike to the Caldera Blanca crater and the fortress in Arrecife.",
+  "dny": {
+   "2026-02-21": "Arrival at the airport near Arrecife and a short transfer to the accommodation in town, the base for the whole week. In the afternoon, a first walk to the sea: a dark-sand beach and a long promenade with a cycle path along the coast. Wind sculptures on the seafront spin in the constant trade winds.",
+   "2026-02-22": "A trip to the north-west of the island and the Famara cliffs. From a viewpoint on the edge of the rocks, the long beach below comes into view, and white radar domes stand on the ridge above the cliffs. On the way back, a stop in Teguise, the island's former capital, where a big market fills the streets around the church every Sunday. In the afternoon, down to Famara beach, where the cliffs look even more massive.",
+   "2026-02-23": "A day for the hike to the Caldera Blanca crater. The trail starts near Tinajo and crosses a vast lava field, black and sharp, with a small volcanic cone along the way. From the crater rim there is a view into its regular bowl and across the lava to the sea. The loop around the rim is one of the best walks on the island. In the afternoon, a rest by the sea.",
+   "2026-02-24": "The longest day behind the wheel, almost a hundred kilometres around the south of the island. In the morning, a narrow gorge in layers of volcanic tuff near Tías, its walls shaped into waves by water. Then the La Geria wine area, where every vine grows in its own pit in black ash, sheltered from the wind by a semicircular stone wall. At El Golfo, a stop at the green Charco Verde lagoon, separated from the sea by a strip of black sand. To finish, the Salinas de Janubio salt pans below the volcanoes.",
+   "2026-02-25": "A day mostly on foot in Arrecife. An early sunrise over the coast, then a walk to Castillo de San Gabriel on its islet, reached by the stone Puente de las Bolas bridge with its two little towers. On to the Charco de San Ginés lagoon, with small fishing boats and white houses around it. In the afternoon, a seawater pool complex where the pools blend with black lava and cacti. In the evening, a sunset over the sea.",
+   "2026-02-26": "A trip to the north of the island. In the morning, the greener coast near Haría, with low plants growing between the lava stones. Then a tour of a lava tube: underground passages formed during an eruption, coloured walls and a pool that mirrors the ceiling so perfectly it looks like a deep chasm. In the afternoon, Jardín de Cactus, a garden in a former quarry with thousands of cacti on lava-stone terraces and a white windmill above it.",
+   "2026-02-27": "The last full day, in the south near Playa Blanca. A haze of Saharan dust hung over the island, turning the sea and sky milky. In the morning, a view of the Papagayo beaches in their coves below the cliffs. Then along the coast to the Castillo de las Coloradas tower on a rock above the sea and to Marina Rubicón with its white houses. In the afternoon, back to Arrecife.",
+   "2026-02-28": "A last morning walk, then the trip to the airport. The flight home via Frankfurt."
+  },
+  "tipy": [
+   "Renting a car pays off: distances are short and the whole south or north can be covered in a day.",
+   "The Caldera Blanca hike is easy, but sturdy shoes help on the sharp lava.",
+   "The trade wind blows almost constantly, so a jacket helps at the clifftop viewpoints.",
+   "Jardín de Cactus and the lava tubes in the north fit well into one trip."
+  ]
  }
 }

@@ -1,8 +1,38 @@
 {
  "cs": {
-  "perex": "Podzimní týden na jihu Itálie. Neapol a lodí na pobřeží Amalfi, pak Bari, Monopoli a bílé trullové domky v Alberobellu."
+  "perex": "Podzimní týden na jihu Itálie bez auta, jen vlakem, lodí a autobusem. Neapol a lodí podél pobřeží Amalfi, pak Bari jako základna pro výlety do Brindisi, Monopoli, Matery a k bílým trullům v Alberobellu.",
+  "dny": {
+   "2026-10-27": "Večerní přílet do Neapole, při přistání pod letadlem svítila celá linie zálivu. Autobusem do centra a ubytování v historickém jádru. Večer krátká procházka úzkými dlážděnými uličkami mezi vysokými domy. Z terasy výhled na noční střechy pod měsícem.",
+   "2026-10-28": "Ráno vlakem z Neapole na jih a dál lodí podél pobřeží Amalfi. Z vody je nejlépe vidět Positano s barevnými domy nalepenými na strmém svahu. V Amalfi procházka nad městem s výhledy na záliv a pinie a pak po nábřeží. Zpátky lodí kolem Atrani a Maiori a vlakem do Neapole. Odpoledne úzké strmé uličky centra, výhled z kopce na celé město, záliv a Vesuv a stanice metra Toledo s obřím kuželem z modré mozaiky.",
+   "2026-10-29": "Ráno ještě po Neapoli: hrad Castel Nuovo s mohutnými kulatými věžemi, rozlehlé náměstí Piazza del Plebiscito s kupolí kostela San Francesco di Paola a přístav s Vesuvem v pozadí. Pak autobusem přes celý jih Itálie k Jadranu do Bari. Odpoledne první procházka starým městem: románská katedrála San Sabino, bazilika svatého Mikuláše s ostatky světce a švábský hrad s hradbami a příkopem.",
+   "2026-10-30": "Vlakem na jih do přístavu Brindisi. Po prohlídce katedrály a uliček starého města malou lodí přes přístav k vysokému památníku italským námořníkům. Uvnitř vede točité schodiště na vyhlídku s pohledem na staré město a válečné lodě v přístavu. Cestou zpět zastávka v Monopoli: barokní katedrála se zdobeným interiérem, bílé uličky, hradby přímo nad mořem a starý přístav s rybářskými loďkami.",
+   "2026-10-31": "Ranním vlakem do Matery, jednoho z nejstarších měst světa. Staré čtvrti Sassi tvoří domy a jeskynní obydlí vytesané do svahu nad hlubokou roklí Gravina. Z vyhlídek je vidět, jak se kamenné domy vrství jeden přes druhý a nad nimi se tyčí zvonice katedrály. Na jedné z vyhlídek stojí bronzová socha olivovníku. Odpoledne návrat do Bari a procházka po nábřeží.",
+   "2026-11-01": "Výlet do údolí Valle d'Itria. V Alberobellu celé čtvrti tvoří trully, bílé domky s kuželovými střechami z naskládaných kamenných plátů. Z vyhlídky vypadají střechy jako šedé moře. Mezi nimi stojí i kostel svatého Antonína postavený ve stejném stylu. Pak krátký přesun do Locorotonda, bílého městečka na kopci s barokním kostelem a výhledem na vinice v údolí.",
+   "2026-11-02": "Poslední ráno v Bari a cesta vlakem na letiště. Let domů."
+  },
+  "tipy": [
+   "Po jihu Itálie se dá cestovat bez auta: vlaky z Bari jezdí do Brindisi, Monopoli i Matery a do Alberobella jezdí vlaky i autobusy.",
+   "Pobřeží Amalfi je nejhezčí z lodi, z vody je vidět celá silueta Positana.",
+   "Ve stanici metra Toledo v Neapoli stojí za to vystoupit jen kvůli mozaikám.",
+   "Matera se nejlépe poznává pěšky z vyhlídek nad roklí, počítejte s množstvím schodů."
+  ]
  },
  "en": {
-  "perex": "An autumn week in southern Italy. Naples and a boat trip along the Amalfi Coast, then Bari, Monopoli and the white trulli of Alberobello."
+  "perex": "An autumn week in southern Italy without a car, travelling only by train, boat and bus. Naples and a boat trip along the Amalfi Coast, then Bari as a base for trips to Brindisi, Monopoli, Matera and the white trulli of Alberobello.",
+  "dny": {
+   "2026-10-27": "An evening arrival in Naples, with the whole curve of the bay lit up below the plane on the approach. A bus into the centre and accommodation in the historic core. In the evening, a short walk through narrow cobbled alleys between tall buildings. From the terrace, a view of the rooftops at night under the moon.",
+   "2026-10-28": "In the morning, a train south from Naples and then a boat along the Amalfi Coast. Positano, with its colourful houses clinging to a steep slope, is best seen from the water. In Amalfi, a walk above the town with views of the bay and stone pines, then along the waterfront. Back by boat past Atrani and Maiori and by train to Naples. In the afternoon, narrow, steep streets in the centre, a view from the hill over the city, the bay and Vesuvius, and Toledo metro station with its giant cone of blue mosaic.",
+   "2026-10-29": "A last morning in Naples: Castel Nuovo with its massive round towers, the vast Piazza del Plebiscito with the dome of San Francesco di Paola, and the harbour with Vesuvius behind. Then a bus across southern Italy to the Adriatic and Bari. In the afternoon, a first walk through the old town: the Romanesque San Sabino Cathedral, the Basilica of Saint Nicholas with the saint's relics, and the Swabian Castle with its walls and moat.",
+   "2026-10-30": "By train south to the port of Brindisi. After the cathedral and the old town streets, a small boat across the harbour to the tall monument to Italian sailors. A spiral staircase inside leads to a viewpoint over the old town and the naval ships in the harbour. On the way back, a stop in Monopoli: a Baroque cathedral with an ornate interior, white alleys, walls rising straight from the sea and an old harbour with fishing boats.",
+   "2026-10-31": "An early train to Matera, one of the oldest cities in the world. Its old Sassi quarters are made of houses and cave dwellings carved into the slope above the deep Gravina ravine. From the viewpoints, the stone houses can be seen stacked one above another, with the cathedral bell tower rising over them. A bronze olive-tree sculpture stands at one of the viewpoints. In the afternoon, back to Bari and a walk along the seafront.",
+   "2026-11-01": "A trip to the Valle d'Itria. In Alberobello, whole quarters are made of trulli, white houses with conical roofs of stacked stone slabs. From a viewpoint, the roofs look like a grey sea. Among them stands the church of Saint Anthony, built in the same style. Then a short hop to Locorotondo, a white hilltop town with a Baroque church and views over the vineyards in the valley.",
+   "2026-11-02": "A last morning in Bari and the train to the airport. The flight home."
+  },
+  "tipy": [
+   "Southern Italy works without a car: trains from Bari go to Brindisi, Monopoli and Matera, and both trains and buses run to Alberobello.",
+   "The Amalfi Coast looks best from a boat, with the whole outline of Positano visible from the water.",
+   "Toledo metro station in Naples is worth getting off at just for the mosaics.",
+   "Matera is best explored on foot from the viewpoints above the ravine; expect plenty of steps."
+  ]
  }
 }

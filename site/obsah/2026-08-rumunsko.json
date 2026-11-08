@@ -1,8 +1,44 @@
 {
  "cs": {
-  "perex": "Deset dní Rumunskem hlavně vlakem: Brašov a Karpaty, čtyři dny u Černého moře v Konstanci a na závěr Bukurešť."
+  "perex": "Deset dní Rumunskem převážně vlakem. Brašov a hory Bucegi v Karpatech, čtyři dny u Černého moře v Konstanci s ubytováním na hausbótu a na závěr Bukurešť s obřím Palácem parlamentu.",
+  "dny": {
+   "2026-07-31": "Večerní let do Bukurešti a první noc nedaleko letiště v Otopeni.",
+   "2026-08-01": "Dopoledne autobusem přes Ploješť na sever do Karpat a odpoledne příjezd do Brašova. Lanovka vyveze z okraje starého města na horu Tâmpa, odkud jsou červené střechy historického centra jako na dlani. Cedule u stezek upozorňují, že se v okolních lesích pohybují medvědi. Cesta zpět vede kolem hradeb a bašt k bráně svaté Kateřiny se čtyřmi štíhlými věžičkami. Večer Černý kostel, největší gotická stavba v kraji, a rušné náměstí Rady se starou radnicí. Den uzavřel západ slunce nad městem.",
+   "2026-08-02": "Vlakem do Buşteni v údolí Prahovy, kde se nad městem zvedají strmé skalní stěny pohoří Bucegi. Kabinová lanovka vyveze až na náhorní plošinu s podivně tvarovanými skalami. Po plošině vede stezka ke Kříži hrdinů na vrcholu Caraiman, odkud je vidět hluboko dolů do údolí. Dál cesta po travnatých hřebenech s výhledy na další horská pásma a sestup směrem k Sinaii. Večer vlakem zpět do Brašova.",
+   "2026-08-03": "Celodenní cesta vlakem přes polovinu země, z Brašova až k Černému moři do Konstance, přes 350 kilometrů. Ubytování na čtyři noci tvořil hausbót kotvící přímo v přístavu, s terasou nad vodou. Odpoledne první procházka po přístavu mezi jachtami a výhled na moře z nábřeží. Kousek odtud stojí mešita Carol I. s vysokým minaretem.",
+   "2026-08-04": "Krátce autobusem na sever od města k dlouhým písečným plážím Černého moře. Pláže se táhnou kilometry podél pobřeží a moře je tu mělké a klidné. Den patřil hlavně koupání a odpočinku. Odpoledne zpátky v přístavu s výhledem na vodu.",
+   "2026-08-05": "Den po památkách Konstance. Ráno secesní kasino na útesu nad mořem, po rekonstrukci znovu otevřené, se zdobeným schodištěm, balkony a velkým sálem. Pak pravoslavná katedrála svatých Petra a Pavla, před kterou leží pozůstatky antického města Tomis. Vrcholem dne byl výstup na minaret mešity Carol I.: z ochozu je vidět kupole mešity, celé staré město, přístav a Černé moře.",
+   "2026-08-06": "Klidnější den v Konstanci. Dopoledne návštěva Muzea umění s obrazy rumunských malířů, mezi nimi řada pohledů na moře a přístavy. Před budovou muzea stojí kamenná socha. Zbytek dne odpočinek na hausbótu a v přístavu.",
+   "2026-08-07": "Ráno ještě procházka parkem s fontánou a pak vlakem přes rovinatý jih země do Bukurešti. Po ubytování metrem do centra a večerní procházka: Rumunské Athenaeum s kupolí a sloupovím, náměstí Revoluce s Památníkem znovuzrození a malým kostelem Kretzulescu z červených cihel. Na závěr bulvár s fontánami, na jehož konci se při západu slunce rýsuje Palác parlamentu.",
+   "2026-08-08": "Den věnovaný Bukurešti z doby Ceaușeska i té nejnovější. Ráno Palác parlamentu zvenku a hned vedle nová katedrála Spásy národa se zlatými kupolemi. Pak park Carol s mohutným mauzoleem nad jezírkem. Následovala prohlídka vnitřku paláce: nekonečné chodby s červenými koberci, mramorové sály, lustry a obří schodiště. Odpoledne Jarní palác, bývalá rezidence Ceaușescových, se zahradou, mozaikovou fontánou, zdobenými salony i krytým bazénem.",
+   "2026-08-09": "Poslední den metrem po Bukurešti. Procházka parkem s pomníkem a k pravoslavnému kostelu s pruhovanou fasádou, uvnitř plnému maleb. Pak Vítězný oblouk na severu města. Odpoledne vlakem na letiště a let domů."
+  },
+  "tipy": [
+   "Rumunské vlaky jsou pomalejší, ale levné a pohodlné. Z Brašova do Konstance se jede skoro celý den.",
+   "Na hory Bucegi se z Buşteni dá vyjet lanovkou a po plošině vede značená stezka ke Kříži hrdinů.",
+   "V okolí Brašova žijí medvědi, cedule u stezek radí chodit ve skupině.",
+   "Do Paláce parlamentu se chodí s průvodcem, prohlídku je dobré rezervovat předem."
+  ]
  },
  "en": {
-  "perex": "Ten days in Romania, mostly by train: Brașov and the Carpathians, four days on the Black Sea in Constanța and Bucharest to finish."
+  "perex": "Ten days in Romania, mostly by train. Brașov and the Bucegi mountains in the Carpathians, four days on the Black Sea in Constanța staying on a houseboat, and Bucharest with its giant Palace of the Parliament to finish.",
+  "dny": {
+   "2026-07-31": "An evening flight to Bucharest and a first night near the airport in Otopeni.",
+   "2026-08-01": "A morning bus via Ploiești north into the Carpathians and arrival in Brașov in the afternoon. A cable car climbs from the edge of the old town to Tâmpa hill, where the red roofs of the historic centre spread out below. Signs along the paths warn that bears roam the surrounding forests. The way back follows the walls and bastions to Catherine's Gate with its four slender turrets. In the evening, the Black Church, the largest Gothic building in the region, and the lively Council Square with the old town hall. A sunset over the town ended the day.",
+   "2026-08-02": "By train to Bușteni in the Prahova valley, where the steep rock walls of the Bucegi mountains rise above the town. A cable car goes all the way up to a high plateau with oddly shaped rocks. A path across the plateau leads to the Heroes' Cross on top of Caraiman, with views deep down into the valley. Then on along grassy ridges with views of more mountain ranges, and a descent towards Sinaia. In the evening, back to Brașov by train.",
+   "2026-08-03": "A full day on the train across half the country, from Brașov to Constanța on the Black Sea, more than 350 kilometres. Home for the next four nights was a houseboat moored right in the marina, with a terrace over the water. In the afternoon, a first walk around the harbour among the yachts and a view of the sea from the waterfront. Nearby stands the Carol I Mosque with its tall minaret.",
+   "2026-08-04": "A short bus ride north of the city to the long sandy beaches of the Black Sea. The beaches stretch for kilometres along the coast and the sea here is shallow and calm. The day was mostly for swimming and resting. In the afternoon, back at the harbour with a view of the water.",
+   "2026-08-05": "A day of Constanța's sights. In the morning, the Art Nouveau casino on a cliff above the sea, reopened after restoration, with an ornate staircase, balconies and a grand hall. Then the Orthodox Cathedral of Saints Peter and Paul, with the remains of the ancient city of Tomis in front of it. The highlight was climbing the minaret of the Carol I Mosque: from its balcony there are views of the mosque's dome, the whole old town, the harbour and the Black Sea.",
+   "2026-08-06": "A quieter day in Constanța. In the morning, a visit to the Art Museum with works by Romanian painters, many of them views of the sea and harbours. A stone sculpture stands outside the museum. The rest of the day was for resting on the houseboat and around the harbour.",
+   "2026-08-07": "A morning walk through a park with a fountain, then the train across the flat south of the country to Bucharest. After checking in, by metro to the centre for an evening walk: the Romanian Athenaeum with its dome and columns, Revolution Square with the Memorial of Rebirth and the small red-brick Kretzulescu Church. To finish, a boulevard of fountains with the Palace of the Parliament outlined at its end at sunset.",
+   "2026-08-08": "A day devoted to Ceaușescu-era Bucharest and its newest landmark. In the morning, the Palace of the Parliament from outside and, right next to it, the new People's Salvation Cathedral with its golden domes. Then Carol Park with its massive mausoleum above a pond. Next came a tour inside the palace: endless corridors with red carpets, marble halls, chandeliers and huge staircases. In the afternoon, the Spring Palace, the Ceaușescus' former residence, with its garden, mosaic fountain, ornate salons and indoor pool.",
+   "2026-08-09": "A last day around Bucharest by metro. A walk through a park with a monument and on to an Orthodox church with a striped façade and an interior full of paintings. Then the Arch of Triumph in the north of the city. In the afternoon, the train to the airport and the flight home."
+  },
+  "tipy": [
+   "Romanian trains are slow but cheap and comfortable. Brașov to Constanța takes almost a whole day.",
+   "A cable car runs from Bușteni up to the Bucegi plateau, and a marked path leads to the Heroes' Cross.",
+   "Bears live around Brașov; signs along the paths advise walking in groups.",
+   "The Palace of the Parliament can only be visited on a guided tour, so book ahead."
+  ]
  }
 }

@@ -39,16 +39,16 @@
             </div>
           </header>
           {% if d.text %}<p class="den-text">{{ d.text }}</p>{% endif %}
+          {% if d.fotky %}
           <div class="galerie">
             {% for f in d.fotky %}
             <figure>
               <a class="foto-obr" href="{{ root }}{{ f.velke }}" data-velke="{{ root }}{{ f.velke }}" data-popis="{{ f.popis[lang] }}"><img src="{{ root }}{{ f.velke if loop.first else f.nahled }}" alt="{{ f.popis[lang] }}" loading="lazy" width="{{ f.w }}" height="{{ f.h }}"></a>
               <figcaption>{{ f.popis[lang] }}</figcaption>
             </figure>
-            {% else %}
-            <figure><div class="foto-misto">{{ t.foto_chybi }}</div></figure>
             {% endfor %}
           </div>
+          {% endif %}
         </article>
         {% endfor %}
       </section>

@@ -1,0 +1,593 @@
+{
+ "fotky": [
+  {
+   "soubor": "2026-02-lanzarote-006.jpg",
+   "datum": "2026-02-21",
+   "cas": "13:32",
+   "p": [
+    28.953,
+    -13.583
+   ],
+   "misto": "Arrecife",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-02-lanzarote/male/2026-02-lanzarote-006.jpg",
+   "velke": "foto/2026-02-lanzarote/velke/2026-02-lanzarote-006.jpg",
+   "popis": {
+    "cs": "Pláž nedaleko Arrecife hned první odpoledne.",
+    "en": "A beach near Arrecife on the very first afternoon."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-02-lanzarote-011.jpg",
+   "datum": "2026-02-21",
+   "cas": "14:44",
+   "p": [
+    28.936,
+    -13.609
+   ],
+   "misto": "Tias",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-02-lanzarote/male/2026-02-lanzarote-011.jpg",
+   "velke": "foto/2026-02-lanzarote/velke/2026-02-lanzarote-011.jpg",
+   "popis": {
+    "cs": "Cyklostezka a promenáda podél pobřeží.",
+    "en": "A cycle path and promenade along the coast."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-02-lanzarote-013.jpg",
+   "datum": "2026-02-21",
+   "cas": "15:24",
+   "p": [
+    28.954,
+    -13.598
+   ],
+   "misto": "Tias",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-02-lanzarote/male/2026-02-lanzarote-013.jpg",
+   "velke": "foto/2026-02-lanzarote/velke/2026-02-lanzarote-013.jpg",
+   "popis": {
+    "cs": "Větrné sochy, které se točí v pasátu.",
+    "en": "Wind sculptures turning in the trade winds."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-02-lanzarote-030.jpg",
+   "datum": "2026-02-22",
+   "cas": "09:23",
+   "p": [
+    29.124,
+    -13.517
+   ],
+   "misto": "Haria",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-02-lanzarote/male/2026-02-lanzarote-030.jpg",
+   "velke": "foto/2026-02-lanzarote/velke/2026-02-lanzarote-030.jpg",
+   "popis": {
+    "cs": "Radarové kopule na hřebeni nad útesy Famary.",
+    "en": "Radar domes on the ridge above the Famara cliffs."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-02-lanzarote-032.jpg",
+   "datum": "2026-02-22",
+   "cas": "09:36",
+   "p": [
+    29.127,
+    -13.524
+   ],
+   "misto": "Haria",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-02-lanzarote/male/2026-02-lanzarote-032.jpg",
+   "velke": "foto/2026-02-lanzarote/velke/2026-02-lanzarote-032.jpg",
+   "popis": {
+    "cs": "Strmé útesy Famary padající k moři.",
+    "en": "The steep Famara cliffs dropping to the sea."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-02-lanzarote-035.jpg",
+   "datum": "2026-02-22",
+   "cas": "09:38",
+   "p": [
+    29.126,
+    -13.525
+   ],
+   "misto": "Haria",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-02-lanzarote/male/2026-02-lanzarote-035.jpg",
+   "velke": "foto/2026-02-lanzarote/velke/2026-02-lanzarote-035.jpg",
+   "popis": {
+    "cs": "Pláž Famara z vyhlídky na útesech.",
+    "en": "Famara beach seen from a viewpoint on the cliffs."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-02-lanzarote-046.jpg",
+   "datum": "2026-02-22",
+   "cas": "10:56",
+   "p": [
+    29.059,
+    -13.56
+   ],
+   "misto": "Teguise",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-02-lanzarote/male/2026-02-lanzarote-046.jpg",
+   "velke": "foto/2026-02-lanzarote/velke/2026-02-lanzarote-046.jpg",
+   "popis": {
+    "cs": "Kostel na náměstí v Teguise během nedělního trhu.",
+    "en": "The church on the square in Teguise during the Sunday market."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-02-lanzarote-048.jpg",
+   "datum": "2026-02-22",
+   "cas": "11:43",
+   "p": [
+    29.116,
+    -13.555
+   ],
+   "misto": "Teguise",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-02-lanzarote/male/2026-02-lanzarote-048.jpg",
+   "velke": "foto/2026-02-lanzarote/velke/2026-02-lanzarote-048.jpg",
+   "popis": {
+    "cs": "Útesy Famary z pláže pod nimi.",
+    "en": "The Famara cliffs from the beach below."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-02-lanzarote-052.jpg",
+   "datum": "2026-02-23",
+   "cas": "08:45",
+   "p": [
+    29.044,
+    -13.701
+   ],
+   "misto": "Tinajo",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-02-lanzarote/male/2026-02-lanzarote-052.jpg",
+   "velke": "foto/2026-02-lanzarote/velke/2026-02-lanzarote-052.jpg",
+   "popis": {
+    "cs": "Lávové pole cestou ke Caldera Blanca.",
+    "en": "The lava field on the way to Caldera Blanca."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-02-lanzarote-059.jpg",
+   "datum": "2026-02-23",
+   "cas": "09:36",
+   "p": [
+    29.042,
+    -13.724
+   ],
+   "misto": "Tinajo",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-02-lanzarote/male/2026-02-lanzarote-059.jpg",
+   "velke": "foto/2026-02-lanzarote/velke/2026-02-lanzarote-059.jpg",
+   "popis": {
+    "cs": "Výhled po černé lávě až k moři.",
+    "en": "A view across black lava all the way to the sea."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-02-lanzarote-061.jpg",
+   "datum": "2026-02-23",
+   "cas": "09:39",
+   "p": [
+    29.043,
+    -13.725
+   ],
+   "misto": "Tinajo",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-02-lanzarote/male/2026-02-lanzarote-061.jpg",
+   "velke": "foto/2026-02-lanzarote/velke/2026-02-lanzarote-061.jpg",
+   "popis": {
+    "cs": "Na okraji kráteru Caldera Blanca.",
+    "en": "On the rim of the Caldera Blanca crater."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-02-lanzarote-068.jpg",
+   "datum": "2026-02-23",
+   "cas": "09:53",
+   "p": [
+    29.037,
+    -13.725
+   ],
+   "misto": "Tinajo",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-02-lanzarote/male/2026-02-lanzarote-068.jpg",
+   "velke": "foto/2026-02-lanzarote/velke/2026-02-lanzarote-068.jpg",
+   "popis": {
+    "cs": "Pohled do kráteru z jeho okraje.",
+    "en": "Looking down into the crater from its rim."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-02-lanzarote-069.jpg",
+   "datum": "2026-02-23",
+   "cas": "14:39",
+   "p": [
+    28.953,
+    -13.583
+   ],
+   "misto": "Arrecife",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-02-lanzarote/male/2026-02-lanzarote-069.jpg",
+   "velke": "foto/2026-02-lanzarote/velke/2026-02-lanzarote-069.jpg",
+   "popis": {
+    "cs": "Odpoledne u moře po túře.",
+    "en": "An afternoon by the sea after the hike."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-02-lanzarote-073.jpg",
+   "datum": "2026-02-24",
+   "cas": "08:57",
+   "p": [
+    28.974,
+    -13.637
+   ],
+   "misto": "Tias",
+   "w": 1200,
+   "h": 1600,
+   "nahled": "foto/2026-02-lanzarote/male/2026-02-lanzarote-073.jpg",
+   "velke": "foto/2026-02-lanzarote/velke/2026-02-lanzarote-073.jpg",
+   "popis": {
+    "cs": "Úzká soutěska ve vrstvách sopečného tufu u Tías.",
+    "en": "A narrow gorge in layers of volcanic tuff near Tías."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-02-lanzarote-075.jpg",
+   "datum": "2026-02-24",
+   "cas": "09:00",
+   "p": [
+    28.974,
+    -13.636
+   ],
+   "misto": "Tias",
+   "w": 1200,
+   "h": 1600,
+   "nahled": "foto/2026-02-lanzarote/male/2026-02-lanzarote-075.jpg",
+   "velke": "foto/2026-02-lanzarote/velke/2026-02-lanzarote-075.jpg",
+   "popis": {
+    "cs": "Vrstvené stěny soutěsky v ranním světle.",
+    "en": "The layered walls of the gorge in the morning light."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-02-lanzarote-078.jpg",
+   "datum": "2026-02-24",
+   "cas": "10:01",
+   "p": [
+    28.97,
+    -13.713
+   ],
+   "misto": "Yaiza",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-02-lanzarote/male/2026-02-lanzarote-078.jpg",
+   "velke": "foto/2026-02-lanzarote/velke/2026-02-lanzarote-078.jpg",
+   "popis": {
+    "cs": "Vinice La Geria: každá réva roste ve vlastní jámě v černém popelu.",
+    "en": "La Geria vineyards: each vine grows in its own pit in black ash."
+   },
+   "titulni": true
+  },
+  {
+   "soubor": "2026-02-lanzarote-084.jpg",
+   "datum": "2026-02-24",
+   "cas": "11:01",
+   "p": [
+    28.979,
+    -13.829
+   ],
+   "misto": "Yaiza",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-02-lanzarote/male/2026-02-lanzarote-084.jpg",
+   "velke": "foto/2026-02-lanzarote/velke/2026-02-lanzarote-084.jpg",
+   "popis": {
+    "cs": "Zelená laguna Charco Verde u El Golfo.",
+    "en": "The green Charco Verde lagoon at El Golfo."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-02-lanzarote-085.jpg",
+   "datum": "2026-02-24",
+   "cas": "11:26",
+   "p": [
+    28.94,
+    -13.826
+   ],
+   "misto": "Yaiza",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-02-lanzarote/male/2026-02-lanzarote-085.jpg",
+   "velke": "foto/2026-02-lanzarote/velke/2026-02-lanzarote-085.jpg",
+   "popis": {
+    "cs": "Solná pole Salinas de Janubio.",
+    "en": "The Salinas de Janubio salt pans."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-02-lanzarote-087.jpg",
+   "datum": "2026-02-25",
+   "cas": "07:30",
+   "p": [
+    28.954,
+    -13.583
+   ],
+   "misto": "Arrecife",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-02-lanzarote/male/2026-02-lanzarote-087.jpg",
+   "velke": "foto/2026-02-lanzarote/velke/2026-02-lanzarote-087.jpg",
+   "popis": {
+    "cs": "Východ slunce nad pobřežím v Arrecife.",
+    "en": "Sunrise over the coast in Arrecife."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-02-lanzarote-090.jpg",
+   "datum": "2026-02-25",
+   "cas": "09:38",
+   "p": [
+    28.958,
+    -13.548
+   ],
+   "misto": "Arrecife",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-02-lanzarote/male/2026-02-lanzarote-090.jpg",
+   "velke": "foto/2026-02-lanzarote/velke/2026-02-lanzarote-090.jpg",
+   "popis": {
+    "cs": "Pevnost Castillo de San Gabriel na ostrůvku u města.",
+    "en": "Castillo de San Gabriel fortress on an islet off the town."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-02-lanzarote-093.jpg",
+   "datum": "2026-02-25",
+   "cas": "09:49",
+   "p": [
+    28.957,
+    -13.548
+   ],
+   "misto": "Arrecife",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-02-lanzarote/male/2026-02-lanzarote-093.jpg",
+   "velke": "foto/2026-02-lanzarote/velke/2026-02-lanzarote-093.jpg",
+   "popis": {
+    "cs": "Most Puente de las Bolas, který k pevnosti vede.",
+    "en": "The Puente de las Bolas bridge leading to the fortress."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-02-lanzarote-096.jpg",
+   "datum": "2026-02-25",
+   "cas": "10:27",
+   "p": [
+    28.96,
+    -13.546
+   ],
+   "misto": "Arrecife",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-02-lanzarote/male/2026-02-lanzarote-096.jpg",
+   "velke": "foto/2026-02-lanzarote/velke/2026-02-lanzarote-096.jpg",
+   "popis": {
+    "cs": "Rybářské lodě v laguně Charco de San Ginés.",
+    "en": "Fishing boats in the Charco de San Ginés lagoon."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-02-lanzarote-098.jpg",
+   "datum": "2026-02-25",
+   "cas": "10:47",
+   "p": [
+    28.955,
+    -13.554
+   ],
+   "misto": "Arrecife",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-02-lanzarote/male/2026-02-lanzarote-098.jpg",
+   "velke": "foto/2026-02-lanzarote/velke/2026-02-lanzarote-098.jpg",
+   "popis": {
+    "cs": "Koupaliště s mořskou vodou, černou lávou a kaktusy.",
+    "en": "A seawater pool complex with black lava and cacti."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-02-lanzarote-105.jpg",
+   "datum": "2026-02-26",
+   "cas": "09:04",
+   "p": [
+    29.158,
+    -13.43
+   ],
+   "misto": "Haria",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-02-lanzarote/male/2026-02-lanzarote-105.jpg",
+   "velke": "foto/2026-02-lanzarote/velke/2026-02-lanzarote-105.jpg",
+   "popis": {
+    "cs": "Zelené pobřeží na severu ostrova u Haríi.",
+    "en": "The green coast in the north of the island near Haría."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-02-lanzarote-109.jpg",
+   "datum": "2026-02-26",
+   "cas": "10:33",
+   "p": [
+    29.161,
+    -13.439
+   ],
+   "misto": "Haria",
+   "w": 1200,
+   "h": 1600,
+   "nahled": "foto/2026-02-lanzarote/male/2026-02-lanzarote-109.jpg",
+   "velke": "foto/2026-02-lanzarote/velke/2026-02-lanzarote-109.jpg",
+   "popis": {
+    "cs": "Podzemní jezírko v lávovém tunelu, ve kterém se zrcadlí strop.",
+    "en": "An underground pool in a lava tube, mirroring the ceiling."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-02-lanzarote-110.jpg",
+   "datum": "2026-02-26",
+   "cas": "10:39",
+   "p": [
+    29.161,
+    -13.44
+   ],
+   "misto": "Haria",
+   "w": 1200,
+   "h": 1600,
+   "nahled": "foto/2026-02-lanzarote/male/2026-02-lanzarote-110.jpg",
+   "velke": "foto/2026-02-lanzarote/velke/2026-02-lanzarote-110.jpg",
+   "popis": {
+    "cs": "Barevné stěny lávového tunelu.",
+    "en": "The coloured walls of the lava tube."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-02-lanzarote-111.jpg",
+   "datum": "2026-02-26",
+   "cas": "11:26",
+   "p": [
+    29.081,
+    -13.477
+   ],
+   "misto": "Haria",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-02-lanzarote/male/2026-02-lanzarote-111.jpg",
+   "velke": "foto/2026-02-lanzarote/velke/2026-02-lanzarote-111.jpg",
+   "popis": {
+    "cs": "Jardín de Cactus: zahrada v bývalém lomu.",
+    "en": "Jardín de Cactus: a garden in a former quarry."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-02-lanzarote-117.jpg",
+   "datum": "2026-02-26",
+   "cas": "11:38",
+   "p": [
+    29.08,
+    -13.476
+   ],
+   "misto": "Haria",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-02-lanzarote/male/2026-02-lanzarote-117.jpg",
+   "velke": "foto/2026-02-lanzarote/velke/2026-02-lanzarote-117.jpg",
+   "popis": {
+    "cs": "Větrný mlýn nad kaktusovou zahradou.",
+    "en": "The windmill above the cactus garden."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-02-lanzarote-119.jpg",
+   "datum": "2026-02-27",
+   "cas": "09:31",
+   "p": [
+    28.858,
+    -13.796
+   ],
+   "misto": "Playa Blanca",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-02-lanzarote/male/2026-02-lanzarote-119.jpg",
+   "velke": "foto/2026-02-lanzarote/velke/2026-02-lanzarote-119.jpg",
+   "popis": {
+    "cs": "Pláže Papagayo v oparu saharského prachu.",
+    "en": "The Papagayo beaches in a haze of Saharan dust."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-02-lanzarote-122.jpg",
+   "datum": "2026-02-27",
+   "cas": "09:54",
+   "p": [
+    28.857,
+    -13.809
+   ],
+   "misto": "Playa Blanca",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-02-lanzarote/male/2026-02-lanzarote-122.jpg",
+   "velke": "foto/2026-02-lanzarote/velke/2026-02-lanzarote-122.jpg",
+   "popis": {
+    "cs": "Věž Castillo de las Coloradas nad útesy u Playa Blanca.",
+    "en": "The Castillo de las Coloradas tower above the cliffs near Playa Blanca."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-02-lanzarote-123.jpg",
+   "datum": "2026-02-27",
+   "cas": "09:59",
+   "p": [
+    28.857,
+    -13.812
+   ],
+   "misto": "Playa Blanca",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-02-lanzarote/male/2026-02-lanzarote-123.jpg",
+   "velke": "foto/2026-02-lanzarote/velke/2026-02-lanzarote-123.jpg",
+   "popis": {
+    "cs": "Přístav Marina Rubicón s bílými domy.",
+    "en": "Marina Rubicón with its white houses."
+   },
+   "titulni": false
+  }
+ ]
+}

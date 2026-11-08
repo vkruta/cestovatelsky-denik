@@ -174,10 +174,16 @@ def zpracuj(cesta):
     vsechny = [p for l in legs for p in l["body"]] + [v["p"] for v in visits]
     lat = [p[0] for p in vsechny]
     lon = [p[1] for p in vsechny]
+    # země: kde se nocovalo, nebo kde se strávily aspoň dva dny (přestup na letišti se nepočítá)
+    dny_v_zemi = {}
+    for den in dny:
+        for cc in {m["cc"] for m in den["mista"]}:
+            dny_v_zemi[cc] = dny_v_zemi.get(cc, 0) + 1
+    noc_zeme = {den["nocleh"]["cc"] for den in dny if den["nocleh"]}
     zeme = {}
     for v in visits:
         g = nejblizsi(*v["p"])
-        if g["cc"] not in zeme:
+        if g["cc"] not in zeme and (g["cc"] in noc_zeme or dny_v_zemi.get(g["cc"], 0) >= 2):
             zeme[g["cc"]] = g["zeme"]
     return {
         "zeme": list(zeme.values()),
