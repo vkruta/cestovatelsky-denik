@@ -187,3 +187,27 @@ figcaption { font-family: var(--pismo-titul); font-size: 0.85rem; color: var(--t
 .lightbox button { position: absolute; top: max(12px, env(safe-area-inset-top, 0px)); right: max(12px, env(safe-area-inset-right, 0px)); font: 600 1rem var(--pismo-titul); background: #fff; color: #111; border: 0; border-radius: 999px; padding: 6px 14px; cursor: pointer; }
 
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; scroll-behavior: auto !important; } }
+
+/* --- úvodní stránka v obou šablonách --- */
+[data-sablona="casopis"] .karty { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 32px; }
+[data-sablona="casopis"] .karta:first-child { grid-column: 1 / -1; }
+[data-sablona="casopis"] .karta:first-child .obr { aspect-ratio: 21 / 9; }
+[data-sablona="casopis"] .karta:first-child h2 { font-size: clamp(1.8rem, 3.5vw, 2.6rem); }
+[data-sablona="casopis"] .karta .obr { aspect-ratio: 16 / 10; }
+[data-sablona="casopis"] .karta h2 { font-size: 1.7rem; }
+[data-sablona="casopis"] .karta p { font-size: 1.08rem; }
+[data-sablona="casopis"] .mapa-vse { height: min(48vh, 440px); }
+[data-sablona="pruvodce"] .uvod-hlava { padding-block: 28px 16px; }
+[data-sablona="pruvodce"] .uvod-hlava h1 { font-size: clamp(1.8rem, 3.5vw, 2.4rem); }
+[data-sablona="pruvodce"] .mapa-vse { height: min(70vh, 640px); }
+[data-sablona="pruvodce"] .karty { grid-template-columns: repeat(auto-fill, minmax(min(100%, 520px), 1fr)); gap: 12px; padding-block: 20px 48px; }
+[data-sablona="pruvodce"] .karta { flex-direction: row; border-radius: 12px; }
+[data-sablona="pruvodce"] .karta .obr { aspect-ratio: auto; width: 168px; flex: none; }
+[data-sablona="pruvodce"] .karta .telo { padding: 14px 16px; gap: 4px; }
+[data-sablona="pruvodce"] .karta h2 { font-size: 1.15rem; }
+[data-sablona="pruvodce"] .karta p { font-size: 0.92rem; line-height: 1.45; }
+@media (max-width: 700px) {
+  [data-sablona="casopis"] .karty { grid-template-columns: minmax(0, 1fr); }
+  [data-sablona="casopis"] .karta:first-child .obr { aspect-ratio: 16 / 10; }
+  [data-sablona="pruvodce"] .karta .obr { width: 110px; }
+}

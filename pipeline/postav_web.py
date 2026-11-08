@@ -124,7 +124,7 @@ def bez_obalu(html):
     """Pro náhled v Claude: obal <html>/<head>/<body> doplní hostitel sám."""
     import re
     html = re.sub(r"<!doctype html>\s*", "", html, flags=re.I)
-    html = re.sub(r"</?(html|head|body)[^>]*>", "", html, flags=re.I)
+    html = re.sub(r"</?(html|head|body)(\s[^>]*)?>", "", html, flags=re.I)
     return html
 
 
