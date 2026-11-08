@@ -1,0 +1,5 @@
+# soukromá data (celá časová osa, originály a zmenšeniny fotek) – nikdy do repozitáře
+data/
+public/
+__pycache__/
+*.pyc
