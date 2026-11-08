@@ -16,7 +16,7 @@
     {% for k in karty %}
     <a class="karta" href="{{ k.url }}" data-slug="{{ k.slug }}">
       <div class="obr">
-        {% if k.titulni %}<img src="{{ root }}{{ k.titulni.nahled }}" alt="{{ k.titulni.popis[lang] }}" loading="lazy">
+        {% if k.titulni %}<img src="{{ root }}{{ k.titulni.velke }}" srcset="{{ root }}{{ k.titulni.nahled }} 480w, {{ root }}{{ k.titulni.velke }} 1600w" sizes="(min-width: 900px) 70vw, 100vw" alt="{{ k.titulni.popis[lang] }}" loading="lazy">
         {% else %}<svg data-nahled-trasy="{{ k.slug }}" viewBox="0 0 300 200" preserveAspectRatio="xMidYMid meet" aria-hidden="true"></svg>{% endif %}
       </div>
       <div class="telo">
