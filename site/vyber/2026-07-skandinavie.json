@@ -9,6 +9,13 @@
    }
   },
   {
+   "i": 19,
+   "popis": {
+    "cs": "Přístavní jeřáby připomínají loděnice, které tu kdysi stály.",
+    "en": "Harbour cranes recall the shipyards that once stood here."
+   }
+  },
+  {
    "i": 21,
    "popis": {
     "cs": "Městský přívoz na řece Göta älv.",
@@ -34,6 +41,13 @@
    "popis": {
     "cs": "Ráno v přístavu kotví loď švédské pobřežní stráže.",
     "en": "A Swedish Coast Guard ship in the harbour in the morning."
+   }
+  },
+  {
+   "i": 43,
+   "popis": {
+    "cs": "Elektromobil z půjčovny na celou cestu po Norsku.",
+    "en": "The rental electric car for the whole Norway road trip."
    }
   },
   {

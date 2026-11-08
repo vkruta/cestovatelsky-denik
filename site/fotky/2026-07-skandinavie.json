@@ -20,6 +20,25 @@
    "titulni": false
   },
   {
+   "soubor": "2026-07-skandinavie-019.jpg",
+   "datum": "2026-07-01",
+   "cas": "19:21",
+   "p": [
+    57.704,
+    11.954
+   ],
+   "misto": "Goeteborg",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-07-skandinavie/male/2026-07-skandinavie-019.jpg",
+   "velke": "foto/2026-07-skandinavie/velke/2026-07-skandinavie-019.jpg",
+   "popis": {
+    "cs": "Přístavní jeřáby připomínají loděnice, které tu kdysi stály.",
+    "en": "Harbour cranes recall the shipyards that once stood here."
+   },
+   "titulni": false
+  },
+  {
    "soubor": "2026-07-skandinavie-021.jpg",
    "datum": "2026-07-01",
    "cas": "19:28",
@@ -92,6 +111,25 @@
    "popis": {
     "cs": "Ráno v přístavu kotví loď švédské pobřežní stráže.",
     "en": "A Swedish Coast Guard ship in the harbour in the morning."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-07-skandinavie-043.jpg",
+   "datum": "2026-07-02",
+   "cas": "08:44",
+   "p": [
+    57.71,
+    11.976
+   ],
+   "misto": "Goeteborg",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-07-skandinavie/male/2026-07-skandinavie-043.jpg",
+   "velke": "foto/2026-07-skandinavie/velke/2026-07-skandinavie-043.jpg",
+   "popis": {
+    "cs": "Elektromobil z půjčovny na celou cestu po Norsku.",
+    "en": "The rental electric car for the whole Norway road trip."
    },
    "titulni": false
   },

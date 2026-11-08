@@ -1,21 +1,7 @@
-/* Cestovatelský deník: přepínač šablon, mapy, prohlížeč fotek */
+/* Cestovatelský deník: mapy a prohlížeč fotek */
 (function () {
   var D = window.DENIK || { root: "", mody: {} };
   var html = document.documentElement;
-
-  /* --- přepínač šablon --- */
-  function nastav(s) {
-    html.setAttribute("data-sablona", s);
-    try { localStorage.setItem("sablona", s); } catch (e) {}
-    document.querySelectorAll("[data-nastav]").forEach(function (b) {
-      b.setAttribute("aria-pressed", b.getAttribute("data-nastav") === s ? "true" : "false");
-    });
-    window.dispatchEvent(new Event("sablona"));
-  }
-  document.querySelectorAll("[data-nastav]").forEach(function (b) {
-    b.addEventListener("click", function () { nastav(b.getAttribute("data-nastav")); });
-  });
-  nastav(html.getAttribute("data-sablona") || "casopis");
 
   /* --- barvy z CSS proměnných (reagují na tmavý režim) --- */
   function barva(mode) {
@@ -53,7 +39,6 @@
   }
 
   function prepocitej(map, fn) {
-    window.addEventListener("sablona", function () { setTimeout(function () { map.invalidateSize(); fn && fn(); }, 60); });
     window.addEventListener("resize", function () { map.invalidateSize(); });
   }
 
@@ -132,22 +117,6 @@
     }
     cela();
     prepocitej(map, cela);
-    document.querySelectorAll("[data-ukazat-den]").forEach(function (b) {
-      b.addEventListener("click", function () {
-        den(b.getAttribute("data-ukazat-den"));
-        if (window.matchMedia("(max-width: 860px)").matches || html.getAttribute("data-sablona") === "casopis") el.scrollIntoView({ behavior: "smooth", block: "center" });
-      });
-    });
-    var c = document.querySelector("[data-cela-trasa]");
-    if (c) c.addEventListener("click", cela);
-    /* v průvodci se mapa sama přiblíží na den, který právě čteš */
-    if ("IntersectionObserver" in window) {
-      var io = new IntersectionObserver(function (zaznamy) {
-        if (html.getAttribute("data-sablona") !== "pruvodce" || window.matchMedia("(max-width: 860px)").matches) return;
-        zaznamy.forEach(function (z) { if (z.isIntersecting) den(z.target.getAttribute("data-datum")); });
-      }, { rootMargin: "-45% 0px -45% 0px" });
-      document.querySelectorAll(".den").forEach(function (d) { io.observe(d); });
-    }
   }
 
   /* --- prohlížeč fotek --- */

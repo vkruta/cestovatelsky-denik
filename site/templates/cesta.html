@@ -22,17 +22,10 @@
       <div id="mapa-cesta" class="mapa mapa-cesta" aria-label="{{ t.cela_trasa }}"></div>
       <div class="legenda">
         {% for m, km in mody %}<span style="color: var(--m-{{ m }})"><i class="{{ m }}"></i><span style="color: var(--tlumene)">{{ t.mody[m] }}</span></span>{% endfor %}
-        <button type="button" class="ukazat" data-cela-trasa id="cela-trasa">{{ t.cela_trasa }}</button>
       </div>
     </aside>
 
     <div class="hlavni">
-      <div class="cisla-obal">
-        <div class="cisla">
-          <div class="cislo"><b>{{ k.dni }}</b><small>{{ t.dni }}</small></div>
-          {% for m, km in mody[:3] %}<div class="cislo"><b>{{ km|cislo(lang) }} {{ t.km }}</b><small><i style="background: var(--m-{{ m }})"></i>{{ t.mody[m] }}</small></div>{% endfor %}
-        </div>
-      </div>
 
       <section class="dny" aria-label="{{ t.den_po_dni }}">
         {% for d in dny %}
@@ -46,7 +39,6 @@
             </div>
           </header>
           {% if d.text %}<p class="den-text">{{ d.text }}</p>{% endif %}
-          {% if d.mista %}<div class="den-mista">{{ t.navstivili }}: {{ d.mista|join(" → ") }}</div>{% endif %}
           <div class="galerie">
             {% for f in d.fotky %}
             <figure>
@@ -57,7 +49,6 @@
             <figure><div class="foto-misto">{{ t.foto_chybi }}</div></figure>
             {% endfor %}
           </div>
-          <button type="button" class="ukazat" data-ukazat-den="{{ d.datum }}" id="ukazat-{{ d.cislo }}">{{ t.ukazat }}</button>
         </article>
         {% endfor %}
       </section>

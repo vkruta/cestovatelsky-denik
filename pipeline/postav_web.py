@@ -44,7 +44,7 @@ T = {
         "den": "Den", "dni": "dní", "nocleh": "Nocleh", "jazyk": "English", "jazyk_kod": "en",
         "vsechny_cesty": "Všechny cesty", "den_po_dni": "Den po dni", "tipy": "Tipy pro cestovatele",
         "ukazat": "Ukázat na mapě", "cela_trasa": "Celá trasa", "predchozi": "Předchozí cesta", "dalsi": "Další cesta",
-        "sablona": "Vzhled", "casopis": "Časopis", "pruvodce": "Průvodce", "zavrit": "Zavřít",
+        "zavrit": "Zavřít",
         "foto_chybi": "Fotky z tohoto dne doplníme", "km_celkem": "km celkem", "navstivili": "Kudy",
         "mody": {"let": "letadlem", "auto": "autem", "autobus": "autobusem", "vlak": "vlakem",
                  "metro": "metrem", "tramvaj": "tramvají", "lod": "lodí", "pesky": "pěšky",
@@ -61,7 +61,7 @@ T = {
         "den": "Day", "dni": "days", "nocleh": "Overnight", "jazyk": "Česky", "jazyk_kod": "cs",
         "vsechny_cesty": "All trips", "den_po_dni": "Day by day", "tipy": "Tips for travellers",
         "ukazat": "Show on map", "cela_trasa": "Whole route", "predchozi": "Previous trip", "dalsi": "Next trip",
-        "sablona": "Layout", "casopis": "Magazine", "pruvodce": "Guide", "zavrit": "Close",
+        "zavrit": "Close",
         "foto_chybi": "Photos from this day coming soon", "km_celkem": "km in total", "navstivili": "Route",
         "mody": {"let": "by plane", "auto": "by car", "autobus": "by bus", "vlak": "by train",
                  "metro": "by metro", "tramvaj": "by tram", "lod": "by boat", "pesky": "on foot",
@@ -178,11 +178,16 @@ def main():
             texty = k["obsah"].get("dny", {})
             dny = []
             for n, den in enumerate(c["dny"], 1):
+                fotky_dne = [f for f in k["fotky"] if f["datum"] == den["datum"]]
+                if len(fotky_dne) % 2 == 0 and fotky_dne:
+                    # šablona počítá s lichým počtem (1 velká + dvojice malých)
+                    print(f"  pozor: {c['slug']} {den['datum']} má sudý počet fotek, poslední vynechávám")
+                    fotky_dne = fotky_dne[:-1]
                 dny.append({
                     "cislo": n, "datum": den["datum"], "nazev": den_nazev(den["datum"], lang),
                     "text": texty.get(den["datum"], ""), "mista": mista_dne(den, lang),
                     "nocleh": dict(den["nocleh"], nazev=nazev(den["nocleh"]["misto"], lang)) if den["nocleh"] else None,
-                    "km": den.get("km", {}), "fotky": [f for f in k["fotky"] if f["datum"] == den["datum"]],
+                    "km": den.get("km", {}), "fotky": fotky_dne,
                 })
             noclehy, posledni = [], None
             for x in dny:
