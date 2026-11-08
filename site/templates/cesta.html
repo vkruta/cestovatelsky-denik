@@ -31,24 +31,24 @@
         {% for d in dny %}
         <article class="den" id="den-{{ d.cislo }}" data-den="{{ d.cislo }}" data-datum="{{ d.datum }}">
           <header class="den-hlava">
-            <span class="den-cislo">{{ t.den }} {{ d.cislo }}</span>
-            <h2>{{ d.nazev }}{% if d.nocleh %} · {{ d.nocleh.nazev }}{% endif %}</h2>
+            <span class="den-cislo">{{ t.den }} {{ d.cislo }} · {{ d.nazev }}</span>
+            <h2>{{ d.cil or (d.nocleh.nazev if d.nocleh else d.nazev) }}</h2>
             <div class="den-meta data">
               {% for m, km in d.km.items() if m != "pesky" %}<span class="chip"><i style="background: var(--m-{{ m }})"></i>{{ km|cislo(lang) }} {{ t.km }} {{ t.mody[m] }}</span>{% endfor %}
               {% if d.nocleh %}<span>{{ t.nocleh }}: {{ d.nocleh.nazev }} · {{ "%.2f"|format(d.nocleh.p[0]) }}° N, {{ "%.2f"|format(d.nocleh.p[1]|abs) }}° {{ "E" if d.nocleh.p[1] >= 0 else "W" }}</span>{% endif %}
             </div>
           </header>
           {% if d.text %}<p class="den-text">{{ d.text }}</p>{% endif %}
+          {% if d.fotky %}
           <div class="galerie">
             {% for f in d.fotky %}
             <figure>
               <a class="foto-obr" href="{{ root }}{{ f.velke }}" data-velke="{{ root }}{{ f.velke }}" data-popis="{{ f.popis[lang] }}"><img src="{{ root }}{{ f.velke if loop.first else f.nahled }}" alt="{{ f.popis[lang] }}" loading="lazy" width="{{ f.w }}" height="{{ f.h }}"></a>
               <figcaption>{{ f.popis[lang] }}</figcaption>
             </figure>
-            {% else %}
-            <figure><div class="foto-misto">{{ t.foto_chybi }}</div></figure>
             {% endfor %}
           </div>
+          {% endif %}
         </article>
         {% endfor %}
       </section>

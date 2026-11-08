@@ -1,0 +1,536 @@
+{
+ "fotky": [
+  {
+   "soubor": "2026-10-italie-001.jpg",
+   "datum": "2026-10-27",
+   "cas": "17:54",
+   "p": [
+    40.843,
+    13.973
+   ],
+   "misto": "Monte di Procida",
+   "w": 1600,
+   "h": 1202,
+   "nahled": "foto/2026-10-italie/male/2026-10-italie-001.jpg",
+   "velke": "foto/2026-10-italie/velke/2026-10-italie-001.jpg",
+   "popis": {
+    "cs": "Světla Neapolského zálivu z okna letadla.",
+    "en": "The lights of the Bay of Naples from the plane window."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-10-italie-002.jpg",
+   "datum": "2026-10-27",
+   "cas": "19:16",
+   "p": [
+    40.848,
+    14.258
+   ],
+   "misto": "Napoli",
+   "w": 1202,
+   "h": 1600,
+   "nahled": "foto/2026-10-italie/male/2026-10-italie-002.jpg",
+   "velke": "foto/2026-10-italie/velke/2026-10-italie-002.jpg",
+   "popis": {
+    "cs": "Úzká dlážděná ulička v historickém centru Neapole v noci.",
+    "en": "A narrow cobbled alley in Naples' historic centre at night."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-10-italie-011.jpg",
+   "datum": "2026-10-27",
+   "cas": "20:37",
+   "p": [
+    40.848,
+    14.258
+   ],
+   "misto": "Napoli",
+   "w": 1600,
+   "h": 1202,
+   "nahled": "foto/2026-10-italie/male/2026-10-italie-011.jpg",
+   "velke": "foto/2026-10-italie/velke/2026-10-italie-011.jpg",
+   "popis": {
+    "cs": "Noční střechy Neapole pod měsícem.",
+    "en": "Naples rooftops under the moon at night."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-10-italie-014.jpg",
+   "datum": "2026-10-28",
+   "cas": "10:34",
+   "p": [
+    40.628,
+    14.489
+   ],
+   "misto": "Positano",
+   "w": 1600,
+   "h": 1202,
+   "nahled": "foto/2026-10-italie/male/2026-10-italie-014.jpg",
+   "velke": "foto/2026-10-italie/velke/2026-10-italie-014.jpg",
+   "popis": {
+    "cs": "Positano z lodi, domy nalepené na strmém svahu.",
+    "en": "Positano from the boat, houses clinging to the steep slope."
+   },
+   "titulni": true
+  },
+  {
+   "soubor": "2026-10-italie-021.jpg",
+   "datum": "2026-10-28",
+   "cas": "11:31",
+   "p": [
+    40.635,
+    14.604
+   ],
+   "misto": "Amalfi",
+   "w": 1600,
+   "h": 1202,
+   "nahled": "foto/2026-10-italie/male/2026-10-italie-021.jpg",
+   "velke": "foto/2026-10-italie/velke/2026-10-italie-021.jpg",
+   "popis": {
+    "cs": "Pinie nad zálivem u Amalfi.",
+    "en": "A stone pine above the bay near Amalfi."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-10-italie-025.jpg",
+   "datum": "2026-10-28",
+   "cas": "11:51",
+   "p": [
+    40.634,
+    14.603
+   ],
+   "misto": "Amalfi",
+   "w": 1600,
+   "h": 1202,
+   "nahled": "foto/2026-10-italie/male/2026-10-italie-025.jpg",
+   "velke": "foto/2026-10-italie/velke/2026-10-italie-025.jpg",
+   "popis": {
+    "cs": "Nábřeží v Amalfi pod zelenými horami.",
+    "en": "The Amalfi waterfront below green mountains."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-10-italie-047.jpg",
+   "datum": "2026-10-28",
+   "cas": "16:29",
+   "p": [
+    40.844,
+    14.24
+   ],
+   "misto": "Napoli",
+   "w": 1600,
+   "h": 1202,
+   "nahled": "foto/2026-10-italie/male/2026-10-italie-047.jpg",
+   "velke": "foto/2026-10-italie/velke/2026-10-italie-047.jpg",
+   "popis": {
+    "cs": "Neapol, záliv a Vesuv z kopce nad městem.",
+    "en": "Naples, the bay and Vesuvius from the hill above the city."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-10-italie-053.jpg",
+   "datum": "2026-10-28",
+   "cas": "17:22",
+   "p": [
+    40.842,
+    14.249
+   ],
+   "misto": "Napoli",
+   "w": 1202,
+   "h": 1600,
+   "nahled": "foto/2026-10-italie/male/2026-10-italie-053.jpg",
+   "velke": "foto/2026-10-italie/velke/2026-10-italie-053.jpg",
+   "popis": {
+    "cs": "Kužel z mozaiky ve stanici metra Toledo.",
+    "en": "The mosaic cone in Toledo metro station."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-10-italie-055.jpg",
+   "datum": "2026-10-29",
+   "cas": "08:27",
+   "p": [
+    40.838,
+    14.252
+   ],
+   "misto": "Napoli",
+   "w": 1600,
+   "h": 1202,
+   "nahled": "foto/2026-10-italie/male/2026-10-italie-055.jpg",
+   "velke": "foto/2026-10-italie/velke/2026-10-italie-055.jpg",
+   "popis": {
+    "cs": "Hrad Castel Nuovo s mohutnými kulatými věžemi.",
+    "en": "Castel Nuovo with its massive round towers."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-10-italie-056.jpg",
+   "datum": "2026-10-29",
+   "cas": "08:33",
+   "p": [
+    40.837,
+    14.249
+   ],
+   "misto": "Napoli",
+   "w": 1600,
+   "h": 1202,
+   "nahled": "foto/2026-10-italie/male/2026-10-italie-056.jpg",
+   "velke": "foto/2026-10-italie/velke/2026-10-italie-056.jpg",
+   "popis": {
+    "cs": "Piazza del Plebiscito s kostelem San Francesco di Paola.",
+    "en": "Piazza del Plebiscito with the church of San Francesco di Paola."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-10-italie-057.jpg",
+   "datum": "2026-10-29",
+   "cas": "08:45",
+   "p": [
+    40.837,
+    14.254
+   ],
+   "misto": "Napoli",
+   "w": 1600,
+   "h": 1202,
+   "nahled": "foto/2026-10-italie/male/2026-10-italie-057.jpg",
+   "velke": "foto/2026-10-italie/velke/2026-10-italie-057.jpg",
+   "popis": {
+    "cs": "Přístav v Neapoli s Vesuvem v pozadí.",
+    "en": "Naples harbour with Vesuvius in the background."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-10-italie-066.jpg",
+   "datum": "2026-10-29",
+   "cas": "14:57",
+   "p": [
+    41.129,
+    16.869
+   ],
+   "misto": "Bari",
+   "w": 1600,
+   "h": 1202,
+   "nahled": "foto/2026-10-italie/male/2026-10-italie-066.jpg",
+   "velke": "foto/2026-10-italie/velke/2026-10-italie-066.jpg",
+   "popis": {
+    "cs": "Katedrála San Sabino ve starém Bari.",
+    "en": "San Sabino Cathedral in Bari's old town."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-10-italie-071.jpg",
+   "datum": "2026-10-29",
+   "cas": "15:40",
+   "p": [
+    41.129,
+    16.866
+   ],
+   "misto": "Bari",
+   "w": 1600,
+   "h": 1202,
+   "nahled": "foto/2026-10-italie/male/2026-10-italie-071.jpg",
+   "velke": "foto/2026-10-italie/velke/2026-10-italie-071.jpg",
+   "popis": {
+    "cs": "Hradby a příkop švábského hradu v Bari.",
+    "en": "The walls and moat of the Swabian Castle in Bari."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-10-italie-079.jpg",
+   "datum": "2026-10-30",
+   "cas": "10:37",
+   "p": [
+    40.641,
+    17.947
+   ],
+   "misto": "Brindisi",
+   "w": 1600,
+   "h": 1202,
+   "nahled": "foto/2026-10-italie/male/2026-10-italie-079.jpg",
+   "velke": "foto/2026-10-italie/velke/2026-10-italie-079.jpg",
+   "popis": {
+    "cs": "Památník italským námořníkům na druhé straně přístavu v Brindisi.",
+    "en": "The monument to Italian sailors across the harbour in Brindisi."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-10-italie-082.jpg",
+   "datum": "2026-10-30",
+   "cas": "11:15",
+   "p": [
+    40.645,
+    17.947
+   ],
+   "misto": "Materdomini",
+   "w": 1202,
+   "h": 1600,
+   "nahled": "foto/2026-10-italie/male/2026-10-italie-082.jpg",
+   "velke": "foto/2026-10-italie/velke/2026-10-italie-082.jpg",
+   "popis": {
+    "cs": "Točité schodiště uvnitř památníku.",
+    "en": "The spiral staircase inside the monument."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-10-italie-085.jpg",
+   "datum": "2026-10-30",
+   "cas": "11:16",
+   "p": [
+    40.645,
+    17.945
+   ],
+   "misto": "Brindisi",
+   "w": 1600,
+   "h": 1202,
+   "nahled": "foto/2026-10-italie/male/2026-10-italie-085.jpg",
+   "velke": "foto/2026-10-italie/velke/2026-10-italie-085.jpg",
+   "popis": {
+    "cs": "Staré město Brindisi z vyhlídky na památníku.",
+    "en": "Brindisi's old town from the monument's viewpoint."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-10-italie-101.jpg",
+   "datum": "2026-10-30",
+   "cas": "14:00",
+   "p": [
+    40.951,
+    17.305
+   ],
+   "misto": "Monopoli",
+   "w": 1600,
+   "h": 1202,
+   "nahled": "foto/2026-10-italie/male/2026-10-italie-101.jpg",
+   "velke": "foto/2026-10-italie/velke/2026-10-italie-101.jpg",
+   "popis": {
+    "cs": "Hradby Monopoli přímo nad mořem.",
+    "en": "Monopoli's walls rising straight from the sea."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-10-italie-106.jpg",
+   "datum": "2026-10-30",
+   "cas": "14:15",
+   "p": [
+    40.953,
+    17.304
+   ],
+   "misto": "Monopoli",
+   "w": 1600,
+   "h": 1202,
+   "nahled": "foto/2026-10-italie/male/2026-10-italie-106.jpg",
+   "velke": "foto/2026-10-italie/velke/2026-10-italie-106.jpg",
+   "popis": {
+    "cs": "Starý přístav v Monopoli s rybářskými loďkami.",
+    "en": "Monopoli's old harbour with fishing boats."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-10-italie-115.jpg",
+   "datum": "2026-10-31",
+   "cas": "10:05",
+   "p": [
+    40.666,
+    16.61
+   ],
+   "misto": "Matera",
+   "w": 1600,
+   "h": 1202,
+   "nahled": "foto/2026-10-italie/male/2026-10-italie-115.jpg",
+   "velke": "foto/2026-10-italie/velke/2026-10-italie-115.jpg",
+   "popis": {
+    "cs": "Kamenné město Matera nad roklí.",
+    "en": "The stone city of Matera above the ravine."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-10-italie-118.jpg",
+   "datum": "2026-10-31",
+   "cas": "10:07",
+   "p": [
+    40.666,
+    16.611
+   ],
+   "misto": "Matera",
+   "w": 1202,
+   "h": 1600,
+   "nahled": "foto/2026-10-italie/male/2026-10-italie-118.jpg",
+   "velke": "foto/2026-10-italie/velke/2026-10-italie-118.jpg",
+   "popis": {
+    "cs": "Bronzová socha olivovníku na vyhlídce v Mateře.",
+    "en": "A bronze olive-tree sculpture at a viewpoint in Matera."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-10-italie-119.jpg",
+   "datum": "2026-10-31",
+   "cas": "10:08",
+   "p": [
+    40.666,
+    16.611
+   ],
+   "misto": "Matera",
+   "w": 1202,
+   "h": 1600,
+   "nahled": "foto/2026-10-italie/male/2026-10-italie-119.jpg",
+   "velke": "foto/2026-10-italie/velke/2026-10-italie-119.jpg",
+   "popis": {
+    "cs": "Domy a jeskynní obydlí Sassi na svahu.",
+    "en": "Houses and cave dwellings of the Sassi on the slope."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-10-italie-122.jpg",
+   "datum": "2026-10-31",
+   "cas": "10:20",
+   "p": [
+    40.667,
+    16.614
+   ],
+   "misto": "Matera",
+   "w": 1202,
+   "h": 1600,
+   "nahled": "foto/2026-10-italie/male/2026-10-italie-122.jpg",
+   "velke": "foto/2026-10-italie/velke/2026-10-italie-122.jpg",
+   "popis": {
+    "cs": "Hluboká rokle Gravina pod městem.",
+    "en": "The deep Gravina ravine below the town."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-10-italie-127.jpg",
+   "datum": "2026-10-31",
+   "cas": "10:37",
+   "p": [
+    40.669,
+    16.609
+   ],
+   "misto": "Matera",
+   "w": 1600,
+   "h": 1202,
+   "nahled": "foto/2026-10-italie/male/2026-10-italie-127.jpg",
+   "velke": "foto/2026-10-italie/velke/2026-10-italie-127.jpg",
+   "popis": {
+    "cs": "Zvonice katedrály nad střechami Matery.",
+    "en": "The cathedral bell tower above Matera's rooftops."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-10-italie-135.jpg",
+   "datum": "2026-11-01",
+   "cas": "09:07",
+   "p": [
+    40.784,
+    17.239
+   ],
+   "misto": "Alberobello",
+   "w": 1600,
+   "h": 1202,
+   "nahled": "foto/2026-10-italie/male/2026-10-italie-135.jpg",
+   "velke": "foto/2026-10-italie/velke/2026-10-italie-135.jpg",
+   "popis": {
+    "cs": "Bílé trully s kuželovými střechami v Alberobellu.",
+    "en": "White trulli with conical roofs in Alberobello."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-10-italie-137.jpg",
+   "datum": "2026-11-01",
+   "cas": "09:12",
+   "p": [
+    40.783,
+    17.238
+   ],
+   "misto": "Alberobello",
+   "w": 1600,
+   "h": 1202,
+   "nahled": "foto/2026-10-italie/male/2026-10-italie-137.jpg",
+   "velke": "foto/2026-10-italie/velke/2026-10-italie-137.jpg",
+   "popis": {
+    "cs": "Moře šedých kamenných střech trullové čtvrti.",
+    "en": "A sea of grey stone roofs in the trulli quarter."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-10-italie-140.jpg",
+   "datum": "2026-11-01",
+   "cas": "09:21",
+   "p": [
+    40.781,
+    17.235
+   ],
+   "misto": "Alberobello",
+   "w": 1600,
+   "h": 1202,
+   "nahled": "foto/2026-10-italie/male/2026-10-italie-140.jpg",
+   "velke": "foto/2026-10-italie/velke/2026-10-italie-140.jpg",
+   "popis": {
+    "cs": "Kostel svatého Antonína postavený jako trullo.",
+    "en": "The church of Saint Anthony built as a trullo."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-10-italie-148.jpg",
+   "datum": "2026-11-01",
+   "cas": "10:44",
+   "p": [
+    40.753,
+    17.329
+   ],
+   "misto": "Locorotondo",
+   "w": 1600,
+   "h": 1202,
+   "nahled": "foto/2026-10-italie/male/2026-10-italie-148.jpg",
+   "velke": "foto/2026-10-italie/velke/2026-10-italie-148.jpg",
+   "popis": {
+    "cs": "Barokní kostel v bílém Locorotondu.",
+    "en": "A Baroque church in white Locorotondo."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-10-italie-149.jpg",
+   "datum": "2026-11-01",
+   "cas": "10:50",
+   "p": [
+    40.752,
+    17.33
+   ],
+   "misto": "Locorotondo",
+   "w": 1202,
+   "h": 1600,
+   "nahled": "foto/2026-10-italie/male/2026-10-italie-149.jpg",
+   "velke": "foto/2026-10-italie/velke/2026-10-italie-149.jpg",
+   "popis": {
+    "cs": "Vinice v údolí Valle d'Itria pod Locorotondem.",
+    "en": "Vineyards in the Valle d'Itria below Locorotondo."
+   },
+   "titulni": false
+  }
+ ]
+}

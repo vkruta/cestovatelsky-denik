@@ -1,0 +1,201 @@
+{
+ "titulni": 14,
+ "fotky": [
+  {
+   "i": 1,
+   "popis": {
+    "cs": "Světla Neapolského zálivu z okna letadla.",
+    "en": "The lights of the Bay of Naples from the plane window."
+   }
+  },
+  {
+   "i": 2,
+   "popis": {
+    "cs": "Úzká dlážděná ulička v historickém centru Neapole v noci.",
+    "en": "A narrow cobbled alley in Naples' historic centre at night."
+   }
+  },
+  {
+   "i": 11,
+   "popis": {
+    "cs": "Noční střechy Neapole pod měsícem.",
+    "en": "Naples rooftops under the moon at night."
+   }
+  },
+  {
+   "i": 14,
+   "popis": {
+    "cs": "Positano z lodi, domy nalepené na strmém svahu.",
+    "en": "Positano from the boat, houses clinging to the steep slope."
+   }
+  },
+  {
+   "i": 21,
+   "popis": {
+    "cs": "Pinie nad zálivem u Amalfi.",
+    "en": "A stone pine above the bay near Amalfi."
+   }
+  },
+  {
+   "i": 25,
+   "popis": {
+    "cs": "Nábřeží v Amalfi pod zelenými horami.",
+    "en": "The Amalfi waterfront below green mountains."
+   }
+  },
+  {
+   "i": 47,
+   "popis": {
+    "cs": "Neapol, záliv a Vesuv z kopce nad městem.",
+    "en": "Naples, the bay and Vesuvius from the hill above the city."
+   }
+  },
+  {
+   "i": 53,
+   "popis": {
+    "cs": "Kužel z mozaiky ve stanici metra Toledo.",
+    "en": "The mosaic cone in Toledo metro station."
+   }
+  },
+  {
+   "i": 55,
+   "popis": {
+    "cs": "Hrad Castel Nuovo s mohutnými kulatými věžemi.",
+    "en": "Castel Nuovo with its massive round towers."
+   }
+  },
+  {
+   "i": 56,
+   "popis": {
+    "cs": "Piazza del Plebiscito s kostelem San Francesco di Paola.",
+    "en": "Piazza del Plebiscito with the church of San Francesco di Paola."
+   }
+  },
+  {
+   "i": 57,
+   "popis": {
+    "cs": "Přístav v Neapoli s Vesuvem v pozadí.",
+    "en": "Naples harbour with Vesuvius in the background."
+   }
+  },
+  {
+   "i": 66,
+   "popis": {
+    "cs": "Katedrála San Sabino ve starém Bari.",
+    "en": "San Sabino Cathedral in Bari's old town."
+   }
+  },
+  {
+   "i": 71,
+   "popis": {
+    "cs": "Hradby a příkop švábského hradu v Bari.",
+    "en": "The walls and moat of the Swabian Castle in Bari."
+   }
+  },
+  {
+   "i": 79,
+   "popis": {
+    "cs": "Památník italským námořníkům na druhé straně přístavu v Brindisi.",
+    "en": "The monument to Italian sailors across the harbour in Brindisi."
+   }
+  },
+  {
+   "i": 82,
+   "popis": {
+    "cs": "Točité schodiště uvnitř památníku.",
+    "en": "The spiral staircase inside the monument."
+   }
+  },
+  {
+   "i": 85,
+   "popis": {
+    "cs": "Staré město Brindisi z vyhlídky na památníku.",
+    "en": "Brindisi's old town from the monument's viewpoint."
+   }
+  },
+  {
+   "i": 101,
+   "popis": {
+    "cs": "Hradby Monopoli přímo nad mořem.",
+    "en": "Monopoli's walls rising straight from the sea."
+   }
+  },
+  {
+   "i": 106,
+   "popis": {
+    "cs": "Starý přístav v Monopoli s rybářskými loďkami.",
+    "en": "Monopoli's old harbour with fishing boats."
+   }
+  },
+  {
+   "i": 115,
+   "popis": {
+    "cs": "Kamenné město Matera nad roklí.",
+    "en": "The stone city of Matera above the ravine."
+   }
+  },
+  {
+   "i": 118,
+   "popis": {
+    "cs": "Bronzová socha olivovníku na vyhlídce v Mateře.",
+    "en": "A bronze olive-tree sculpture at a viewpoint in Matera."
+   }
+  },
+  {
+   "i": 119,
+   "popis": {
+    "cs": "Domy a jeskynní obydlí Sassi na svahu.",
+    "en": "Houses and cave dwellings of the Sassi on the slope."
+   }
+  },
+  {
+   "i": 122,
+   "popis": {
+    "cs": "Hluboká rokle Gravina pod městem.",
+    "en": "The deep Gravina ravine below the town."
+   }
+  },
+  {
+   "i": 127,
+   "popis": {
+    "cs": "Zvonice katedrály nad střechami Matery.",
+    "en": "The cathedral bell tower above Matera's rooftops."
+   }
+  },
+  {
+   "i": 135,
+   "popis": {
+    "cs": "Bílé trully s kuželovými střechami v Alberobellu.",
+    "en": "White trulli with conical roofs in Alberobello."
+   }
+  },
+  {
+   "i": 137,
+   "popis": {
+    "cs": "Moře šedých kamenných střech trullové čtvrti.",
+    "en": "A sea of grey stone roofs in the trulli quarter."
+   }
+  },
+  {
+   "i": 140,
+   "popis": {
+    "cs": "Kostel svatého Antonína postavený jako trullo.",
+    "en": "The church of Saint Anthony built as a trullo."
+   }
+  },
+  {
+   "i": 148,
+   "popis": {
+    "cs": "Barokní kostel v bílém Locorotondu.",
+    "en": "A Baroque church in white Locorotondo."
+   }
+  },
+  {
+   "i": 149,
+   "popis": {
+    "cs": "Vinice v údolí Valle d'Itria pod Locorotondem.",
+    "en": "Vineyards in the Valle d'Itria below Locorotondo."
+   }
+  }
+ ]
+}

@@ -1,0 +1,264 @@
+{
+ "titulni": 12,
+ "fotky": [
+  {
+   "i": 12,
+   "popis": {
+    "cs": "Střechy starého Brašova z hory Tâmpa.",
+    "en": "The rooftops of old Brașov from Tâmpa hill."
+   }
+  },
+  {
+   "i": 15,
+   "popis": {
+    "cs": "Lanovka na Tâmpu nad lesem a městem.",
+    "en": "The Tâmpa cable car above the forest and the town."
+   }
+  },
+  {
+   "i": 16,
+   "popis": {
+    "cs": "Černý kostel a hradby starého města.",
+    "en": "The Black Church and the old town walls."
+   }
+  },
+  {
+   "i": 18,
+   "popis": {
+    "cs": "Brána svaté Kateřiny se čtyřmi věžičkami.",
+    "en": "Catherine's Gate with its four turrets."
+   }
+  },
+  {
+   "i": 19,
+   "popis": {
+    "cs": "Gotický Černý kostel, největší dominanta Brašova.",
+    "en": "The Gothic Black Church, Brașov's dominant landmark."
+   }
+  },
+  {
+   "i": 34,
+   "popis": {
+    "cs": "Hřeben Bucegi nad Buşteni v ranním slunci.",
+    "en": "The Bucegi ridge above Bușteni in the morning sun."
+   }
+  },
+  {
+   "i": 35,
+   "popis": {
+    "cs": "Kabinová lanovka z Buşteni na náhorní plošinu.",
+    "en": "The cable car from Bușteni up to the plateau."
+   }
+  },
+  {
+   "i": 43,
+   "popis": {
+    "cs": "Kříž hrdinů na vrcholu Caraiman.",
+    "en": "The Heroes' Cross on top of Caraiman."
+   }
+  },
+  {
+   "i": 44,
+   "popis": {
+    "cs": "Pohled z okraje plošiny do údolí Prahovy na Buşteni.",
+    "en": "A view from the edge of the plateau down to Bușteni in the Prahova valley."
+   }
+  },
+  {
+   "i": 51,
+   "popis": {
+    "cs": "Stezka přes travnaté hřebeny směrem k Sinaii.",
+    "en": "A path across grassy ridges towards Sinaia."
+   }
+  },
+  {
+   "i": 56,
+   "popis": {
+    "cs": "Nádraží v Brašově před dlouhou cestou k moři.",
+    "en": "Brașov station before the long journey to the sea."
+   }
+  },
+  {
+   "i": 60,
+   "popis": {
+    "cs": "Přístav v Konstanci z vyhlídky nad mořem.",
+    "en": "Constanța harbour from a viewpoint above the sea."
+   }
+  },
+  {
+   "i": 61,
+   "popis": {
+    "cs": "Hausbót v přístavu, ubytování na čtyři noci.",
+    "en": "A houseboat in the marina, home for four nights."
+   }
+  },
+  {
+   "i": 71,
+   "popis": {
+    "cs": "Jachty a pilotní loď v přístavu.",
+    "en": "Yachts and a pilot boat in the harbour."
+   }
+  },
+  {
+   "i": 72,
+   "popis": {
+    "cs": "Mešita Carol I. s vysokým minaretem.",
+    "en": "The Carol I Mosque with its tall minaret."
+   }
+  },
+  {
+   "i": 74,
+   "popis": {
+    "cs": "Dlouhá písečná pláž u Černého moře severně od Konstance.",
+    "en": "A long sandy Black Sea beach north of Constanța."
+   }
+  },
+  {
+   "i": 81,
+   "popis": {
+    "cs": "Secesní kasino na nábřeží v Konstanci.",
+    "en": "The Art Nouveau casino on the Constanța seafront."
+   }
+  },
+  {
+   "i": 89,
+   "popis": {
+    "cs": "Zdobené schodiště a balkony uvnitř kasina.",
+    "en": "The ornate staircase and balconies inside the casino."
+   }
+  },
+  {
+   "i": 91,
+   "popis": {
+    "cs": "Pravoslavná katedrála s pozůstatky antického města před ní.",
+    "en": "The Orthodox cathedral with remains of the ancient city in front."
+   }
+  },
+  {
+   "i": 94,
+   "popis": {
+    "cs": "Kupole mešity z ochozu minaretu.",
+    "en": "The mosque's dome from the minaret balcony."
+   }
+  },
+  {
+   "i": 95,
+   "popis": {
+    "cs": "Přístav a Černé moře z minaretu.",
+    "en": "The harbour and the Black Sea from the minaret."
+   }
+  },
+  {
+   "i": 102,
+   "popis": {
+    "cs": "Obraz staré městské věže v Muzeu umění.",
+    "en": "A painting of an old town tower in the Art Museum."
+   }
+  },
+  {
+   "i": 103,
+   "popis": {
+    "cs": "Mořský přístav na obraze v místní sbírce.",
+    "en": "A harbour scene in the local collection."
+   }
+  },
+  {
+   "i": 110,
+   "popis": {
+    "cs": "Socha před budovou Muzea umění v Konstanci.",
+    "en": "A sculpture outside the Constanța Art Museum."
+   }
+  },
+  {
+   "i": 119,
+   "popis": {
+    "cs": "Fontána v parku v Konstanci před odjezdem.",
+    "en": "A fountain in a Constanța park before departure."
+   }
+  },
+  {
+   "i": 133,
+   "popis": {
+    "cs": "Rumunské Athenaeum, koncertní síň z konce 19. století.",
+    "en": "The Romanian Athenaeum, a late 19th-century concert hall."
+   }
+  },
+  {
+   "i": 136,
+   "popis": {
+    "cs": "Památník znovuzrození na náměstí Revoluce.",
+    "en": "The Memorial of Rebirth on Revolution Square."
+   }
+  },
+  {
+   "i": 137,
+   "popis": {
+    "cs": "Kostel Kretzulescu z červených cihel.",
+    "en": "The red-brick Kretzulescu Church."
+   }
+  },
+  {
+   "i": 146,
+   "popis": {
+    "cs": "Palác parlamentu při západu slunce na konci bulváru s fontánami.",
+    "en": "The Palace of the Parliament at sunset at the end of a boulevard of fountains."
+   }
+  },
+  {
+   "i": 151,
+   "popis": {
+    "cs": "Palác parlamentu, jedna z největších budov světa.",
+    "en": "The Palace of the Parliament, one of the largest buildings in the world."
+   }
+  },
+  {
+   "i": 156,
+   "popis": {
+    "cs": "Nová katedrála Spásy národa se zlatými kupolemi.",
+    "en": "The new People's Salvation Cathedral with its golden domes."
+   }
+  },
+  {
+   "i": 161,
+   "popis": {
+    "cs": "Mauzoleum v parku Carol nad jezírkem.",
+    "en": "The mausoleum in Carol Park above a pond."
+   }
+  },
+  {
+   "i": 179,
+   "popis": {
+    "cs": "Mramorový sál uvnitř Paláce parlamentu.",
+    "en": "A marble hall inside the Palace of the Parliament."
+   }
+  },
+  {
+   "i": 181,
+   "popis": {
+    "cs": "Zahrada Jarního paláce, bývalé rezidence Ceaușescových.",
+    "en": "The garden of the Spring Palace, the Ceaușescus' former residence."
+   }
+  },
+  {
+   "i": 197,
+   "popis": {
+    "cs": "Pomník v zeleni bukurešťského parku.",
+    "en": "A monument among the greenery of a Bucharest park."
+   }
+  },
+  {
+   "i": 199,
+   "popis": {
+    "cs": "Pravoslavný kostel ve stínu stromů.",
+    "en": "An Orthodox church in the shade of trees."
+   }
+  },
+  {
+   "i": 203,
+   "popis": {
+    "cs": "Vítězný oblouk v Bukurešti.",
+    "en": "The Arch of Triumph in Bucharest."
+   }
+  }
+ ]
+}

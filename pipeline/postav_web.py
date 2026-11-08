@@ -185,7 +185,7 @@ def main():
                     fotky_dne = fotky_dne[:-1]
                 dny.append({
                     "cislo": n, "datum": den["datum"], "nazev": den_nazev(den["datum"], lang),
-                    "text": texty.get(den["datum"], ""), "mista": mista_dne(den, lang),
+                    "text": texty.get(den["datum"], ""), "cil": k["obsah"].get("cile", {}).get(den["datum"], ""), "mista": mista_dne(den, lang),
                     "nocleh": dict(den["nocleh"], nazev=nazev(den["nocleh"]["misto"], lang)) if den["nocleh"] else None,
                     "km": den.get("km", {}), "fotky": fotky_dne,
                 })

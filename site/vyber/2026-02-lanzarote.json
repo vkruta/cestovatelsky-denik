@@ -1,0 +1,222 @@
+{
+ "titulni": 78,
+ "fotky": [
+  {
+   "i": 6,
+   "popis": {
+    "cs": "Pláž nedaleko Arrecife hned první odpoledne.",
+    "en": "A beach near Arrecife on the very first afternoon."
+   }
+  },
+  {
+   "i": 11,
+   "popis": {
+    "cs": "Cyklostezka a promenáda podél pobřeží.",
+    "en": "A cycle path and promenade along the coast."
+   }
+  },
+  {
+   "i": 13,
+   "popis": {
+    "cs": "Větrné sochy, které se točí v pasátu.",
+    "en": "Wind sculptures turning in the trade winds."
+   }
+  },
+  {
+   "i": 30,
+   "popis": {
+    "cs": "Radarové kopule na hřebeni nad útesy Famary.",
+    "en": "Radar domes on the ridge above the Famara cliffs."
+   }
+  },
+  {
+   "i": 32,
+   "popis": {
+    "cs": "Strmé útesy Famary padající k moři.",
+    "en": "The steep Famara cliffs dropping to the sea."
+   }
+  },
+  {
+   "i": 35,
+   "popis": {
+    "cs": "Pláž Famara z vyhlídky na útesech.",
+    "en": "Famara beach seen from a viewpoint on the cliffs."
+   }
+  },
+  {
+   "i": 46,
+   "popis": {
+    "cs": "Kostel na náměstí v Teguise během nedělního trhu.",
+    "en": "The church on the square in Teguise during the Sunday market."
+   }
+  },
+  {
+   "i": 48,
+   "popis": {
+    "cs": "Útesy Famary z pláže pod nimi.",
+    "en": "The Famara cliffs from the beach below."
+   }
+  },
+  {
+   "i": 52,
+   "popis": {
+    "cs": "Lávové pole cestou ke Caldera Blanca.",
+    "en": "The lava field on the way to Caldera Blanca."
+   }
+  },
+  {
+   "i": 59,
+   "popis": {
+    "cs": "Výhled po černé lávě až k moři.",
+    "en": "A view across black lava all the way to the sea."
+   }
+  },
+  {
+   "i": 61,
+   "popis": {
+    "cs": "Na okraji kráteru Caldera Blanca.",
+    "en": "On the rim of the Caldera Blanca crater."
+   }
+  },
+  {
+   "i": 68,
+   "popis": {
+    "cs": "Pohled do kráteru z jeho okraje.",
+    "en": "Looking down into the crater from its rim."
+   }
+  },
+  {
+   "i": 69,
+   "popis": {
+    "cs": "Odpoledne u moře po túře.",
+    "en": "An afternoon by the sea after the hike."
+   }
+  },
+  {
+   "i": 73,
+   "popis": {
+    "cs": "Úzká soutěska ve vrstvách sopečného tufu u Tías.",
+    "en": "A narrow gorge in layers of volcanic tuff near Tías."
+   }
+  },
+  {
+   "i": 75,
+   "popis": {
+    "cs": "Vrstvené stěny soutěsky v ranním světle.",
+    "en": "The layered walls of the gorge in the morning light."
+   }
+  },
+  {
+   "i": 78,
+   "popis": {
+    "cs": "Vinice La Geria: každá réva roste ve vlastní jámě v černém popelu.",
+    "en": "La Geria vineyards: each vine grows in its own pit in black ash."
+   }
+  },
+  {
+   "i": 84,
+   "popis": {
+    "cs": "Zelená laguna Charco Verde u El Golfo.",
+    "en": "The green Charco Verde lagoon at El Golfo."
+   }
+  },
+  {
+   "i": 85,
+   "popis": {
+    "cs": "Solná pole Salinas de Janubio.",
+    "en": "The Salinas de Janubio salt pans."
+   }
+  },
+  {
+   "i": 87,
+   "popis": {
+    "cs": "Východ slunce nad pobřežím v Arrecife.",
+    "en": "Sunrise over the coast in Arrecife."
+   }
+  },
+  {
+   "i": 90,
+   "popis": {
+    "cs": "Pevnost Castillo de San Gabriel na ostrůvku u města.",
+    "en": "Castillo de San Gabriel fortress on an islet off the town."
+   }
+  },
+  {
+   "i": 93,
+   "popis": {
+    "cs": "Most Puente de las Bolas, který k pevnosti vede.",
+    "en": "The Puente de las Bolas bridge leading to the fortress."
+   }
+  },
+  {
+   "i": 96,
+   "popis": {
+    "cs": "Rybářské lodě v laguně Charco de San Ginés.",
+    "en": "Fishing boats in the Charco de San Ginés lagoon."
+   }
+  },
+  {
+   "i": 98,
+   "popis": {
+    "cs": "Koupaliště s mořskou vodou, černou lávou a kaktusy.",
+    "en": "A seawater pool complex with black lava and cacti."
+   }
+  },
+  {
+   "i": 105,
+   "popis": {
+    "cs": "Zelené pobřeží na severu ostrova u Haríi.",
+    "en": "The green coast in the north of the island near Haría."
+   }
+  },
+  {
+   "i": 109,
+   "popis": {
+    "cs": "Podzemní jezírko v lávovém tunelu, ve kterém se zrcadlí strop.",
+    "en": "An underground pool in a lava tube, mirroring the ceiling."
+   }
+  },
+  {
+   "i": 110,
+   "popis": {
+    "cs": "Barevné stěny lávového tunelu.",
+    "en": "The coloured walls of the lava tube."
+   }
+  },
+  {
+   "i": 111,
+   "popis": {
+    "cs": "Jardín de Cactus: zahrada v bývalém lomu.",
+    "en": "Jardín de Cactus: a garden in a former quarry."
+   }
+  },
+  {
+   "i": 117,
+   "popis": {
+    "cs": "Větrný mlýn nad kaktusovou zahradou.",
+    "en": "The windmill above the cactus garden."
+   }
+  },
+  {
+   "i": 119,
+   "popis": {
+    "cs": "Pláže Papagayo v oparu saharského prachu.",
+    "en": "The Papagayo beaches in a haze of Saharan dust."
+   }
+  },
+  {
+   "i": 122,
+   "popis": {
+    "cs": "Věž Castillo de las Coloradas nad útesy u Playa Blanca.",
+    "en": "The Castillo de las Coloradas tower above the cliffs near Playa Blanca."
+   }
+  },
+  {
+   "i": 123,
+   "popis": {
+    "cs": "Přístav Marina Rubicón s bílými domy.",
+    "en": "Marina Rubicón with its white houses."
+   }
+  }
+ ]
+}

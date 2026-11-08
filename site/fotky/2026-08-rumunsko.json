@@ -1,0 +1,707 @@
+{
+ "fotky": [
+  {
+   "soubor": "2026-08-rumunsko-012.jpg",
+   "datum": "2026-08-01",
+   "cas": "17:32",
+   "p": [
+    45.635,
+    25.594
+   ],
+   "misto": "Brasov",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-08-rumunsko/male/2026-08-rumunsko-012.jpg",
+   "velke": "foto/2026-08-rumunsko/velke/2026-08-rumunsko-012.jpg",
+   "popis": {
+    "cs": "Střechy starého Brašova z hory Tâmpa.",
+    "en": "The rooftops of old Brașov from Tâmpa hill."
+   },
+   "titulni": true
+  },
+  {
+   "soubor": "2026-08-rumunsko-015.jpg",
+   "datum": "2026-08-01",
+   "cas": "17:49",
+   "p": [
+    45.637,
+    25.596
+   ],
+   "misto": "Brasov",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-08-rumunsko/male/2026-08-rumunsko-015.jpg",
+   "velke": "foto/2026-08-rumunsko/velke/2026-08-rumunsko-015.jpg",
+   "popis": {
+    "cs": "Lanovka na Tâmpu nad lesem a městem.",
+    "en": "The Tâmpa cable car above the forest and the town."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-08-rumunsko-016.jpg",
+   "datum": "2026-08-01",
+   "cas": "18:24",
+   "p": [
+    45.637,
+    25.59
+   ],
+   "misto": "Brasov",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-08-rumunsko/male/2026-08-rumunsko-016.jpg",
+   "velke": "foto/2026-08-rumunsko/velke/2026-08-rumunsko-016.jpg",
+   "popis": {
+    "cs": "Černý kostel a hradby starého města.",
+    "en": "The Black Church and the old town walls."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-08-rumunsko-018.jpg",
+   "datum": "2026-08-01",
+   "cas": "18:32",
+   "p": [
+    45.639,
+    25.586
+   ],
+   "misto": "Brasov",
+   "w": 1200,
+   "h": 1600,
+   "nahled": "foto/2026-08-rumunsko/male/2026-08-rumunsko-018.jpg",
+   "velke": "foto/2026-08-rumunsko/velke/2026-08-rumunsko-018.jpg",
+   "popis": {
+    "cs": "Brána svaté Kateřiny se čtyřmi věžičkami.",
+    "en": "Catherine's Gate with its four turrets."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-08-rumunsko-019.jpg",
+   "datum": "2026-08-01",
+   "cas": "18:36",
+   "p": [
+    45.641,
+    25.588
+   ],
+   "misto": "Brasov",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-08-rumunsko/male/2026-08-rumunsko-019.jpg",
+   "velke": "foto/2026-08-rumunsko/velke/2026-08-rumunsko-019.jpg",
+   "popis": {
+    "cs": "Gotický Černý kostel, největší dominanta Brašova.",
+    "en": "The Gothic Black Church, Brașov's dominant landmark."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-08-rumunsko-034.jpg",
+   "datum": "2026-08-02",
+   "cas": "08:21",
+   "p": [
+    45.415,
+    25.536
+   ],
+   "misto": "Busteni",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-08-rumunsko/male/2026-08-rumunsko-034.jpg",
+   "velke": "foto/2026-08-rumunsko/velke/2026-08-rumunsko-034.jpg",
+   "popis": {
+    "cs": "Hřeben Bucegi nad Buşteni v ranním slunci.",
+    "en": "The Bucegi ridge above Bușteni in the morning sun."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-08-rumunsko-035.jpg",
+   "datum": "2026-08-02",
+   "cas": "09:06",
+   "p": [
+    45.409,
+    25.525
+   ],
+   "misto": "Busteni",
+   "w": 1200,
+   "h": 1600,
+   "nahled": "foto/2026-08-rumunsko/male/2026-08-rumunsko-035.jpg",
+   "velke": "foto/2026-08-rumunsko/velke/2026-08-rumunsko-035.jpg",
+   "popis": {
+    "cs": "Kabinová lanovka z Buşteni na náhorní plošinu.",
+    "en": "The cable car from Bușteni up to the plateau."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-08-rumunsko-043.jpg",
+   "datum": "2026-08-02",
+   "cas": "10:29",
+   "p": [
+    45.416,
+    25.497
+   ],
+   "misto": "Busteni",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-08-rumunsko/male/2026-08-rumunsko-043.jpg",
+   "velke": "foto/2026-08-rumunsko/velke/2026-08-rumunsko-043.jpg",
+   "popis": {
+    "cs": "Kříž hrdinů na vrcholu Caraiman.",
+    "en": "The Heroes' Cross on top of Caraiman."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-08-rumunsko-044.jpg",
+   "datum": "2026-08-02",
+   "cas": "10:30",
+   "p": [
+    45.416,
+    25.498
+   ],
+   "misto": "Busteni",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-08-rumunsko/male/2026-08-rumunsko-044.jpg",
+   "velke": "foto/2026-08-rumunsko/velke/2026-08-rumunsko-044.jpg",
+   "popis": {
+    "cs": "Pohled z okraje plošiny do údolí Prahovy na Buşteni.",
+    "en": "A view from the edge of the plateau down to Bușteni in the Prahova valley."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-08-rumunsko-051.jpg",
+   "datum": "2026-08-02",
+   "cas": "12:41",
+   "p": [
+    45.376,
+    25.49
+   ],
+   "misto": "Busteni",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-08-rumunsko/male/2026-08-rumunsko-051.jpg",
+   "velke": "foto/2026-08-rumunsko/velke/2026-08-rumunsko-051.jpg",
+   "popis": {
+    "cs": "Stezka přes travnaté hřebeny směrem k Sinaii.",
+    "en": "A path across grassy ridges towards Sinaia."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-08-rumunsko-056.jpg",
+   "datum": "2026-08-03",
+   "cas": "07:26",
+   "p": [
+    45.661,
+    25.614
+   ],
+   "misto": "Brasov",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-08-rumunsko/male/2026-08-rumunsko-056.jpg",
+   "velke": "foto/2026-08-rumunsko/velke/2026-08-rumunsko-056.jpg",
+   "popis": {
+    "cs": "Nádraží v Brašově před dlouhou cestou k moři.",
+    "en": "Brașov station before the long journey to the sea."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-08-rumunsko-060.jpg",
+   "datum": "2026-08-03",
+   "cas": "14:08",
+   "p": [
+    44.175,
+    28.659
+   ],
+   "misto": "Constanta",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-08-rumunsko/male/2026-08-rumunsko-060.jpg",
+   "velke": "foto/2026-08-rumunsko/velke/2026-08-rumunsko-060.jpg",
+   "popis": {
+    "cs": "Přístav v Konstanci z vyhlídky nad mořem.",
+    "en": "Constanța harbour from a viewpoint above the sea."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-08-rumunsko-061.jpg",
+   "datum": "2026-08-03",
+   "cas": "14:20",
+   "p": [
+    44.175,
+    28.661
+   ],
+   "misto": "Constanta",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-08-rumunsko/male/2026-08-rumunsko-061.jpg",
+   "velke": "foto/2026-08-rumunsko/velke/2026-08-rumunsko-061.jpg",
+   "popis": {
+    "cs": "Hausbót v přístavu, ubytování na čtyři noci.",
+    "en": "A houseboat in the marina, home for four nights."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-08-rumunsko-071.jpg",
+   "datum": "2026-08-03",
+   "cas": "15:56",
+   "p": [
+    44.175,
+    28.659
+   ],
+   "misto": "Constanta",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-08-rumunsko/male/2026-08-rumunsko-071.jpg",
+   "velke": "foto/2026-08-rumunsko/velke/2026-08-rumunsko-071.jpg",
+   "popis": {
+    "cs": "Jachty a pilotní loď v přístavu.",
+    "en": "Yachts and a pilot boat in the harbour."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-08-rumunsko-072.jpg",
+   "datum": "2026-08-03",
+   "cas": "15:59",
+   "p": [
+    44.173,
+    28.659
+   ],
+   "misto": "Constanta",
+   "w": 1200,
+   "h": 1600,
+   "nahled": "foto/2026-08-rumunsko/male/2026-08-rumunsko-072.jpg",
+   "velke": "foto/2026-08-rumunsko/velke/2026-08-rumunsko-072.jpg",
+   "popis": {
+    "cs": "Mešita Carol I. s vysokým minaretem.",
+    "en": "The Carol I Mosque with its tall minaret."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-08-rumunsko-074.jpg",
+   "datum": "2026-08-04",
+   "cas": "10:12",
+   "p": [
+    44.231,
+    28.631
+   ],
+   "misto": "Palazu Mare",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-08-rumunsko/male/2026-08-rumunsko-074.jpg",
+   "velke": "foto/2026-08-rumunsko/velke/2026-08-rumunsko-074.jpg",
+   "popis": {
+    "cs": "Dlouhá písečná pláž u Černého moře severně od Konstance.",
+    "en": "A long sandy Black Sea beach north of Constanța."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-08-rumunsko-081.jpg",
+   "datum": "2026-08-05",
+   "cas": "09:39",
+   "p": [
+    44.172,
+    28.665
+   ],
+   "misto": "Constanta",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-08-rumunsko/male/2026-08-rumunsko-081.jpg",
+   "velke": "foto/2026-08-rumunsko/velke/2026-08-rumunsko-081.jpg",
+   "popis": {
+    "cs": "Secesní kasino na nábřeží v Konstanci.",
+    "en": "The Art Nouveau casino on the Constanța seafront."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-08-rumunsko-089.jpg",
+   "datum": "2026-08-05",
+   "cas": "10:07",
+   "p": [
+    44.17,
+    28.663
+   ],
+   "misto": "Constanta",
+   "w": 1200,
+   "h": 1600,
+   "nahled": "foto/2026-08-rumunsko/male/2026-08-rumunsko-089.jpg",
+   "velke": "foto/2026-08-rumunsko/velke/2026-08-rumunsko-089.jpg",
+   "popis": {
+    "cs": "Zdobené schodiště a balkony uvnitř kasina.",
+    "en": "The ornate staircase and balconies inside the casino."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-08-rumunsko-091.jpg",
+   "datum": "2026-08-05",
+   "cas": "10:31",
+   "p": [
+    44.171,
+    28.661
+   ],
+   "misto": "Constanta",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-08-rumunsko/male/2026-08-rumunsko-091.jpg",
+   "velke": "foto/2026-08-rumunsko/velke/2026-08-rumunsko-091.jpg",
+   "popis": {
+    "cs": "Pravoslavná katedrála s pozůstatky antického města před ní.",
+    "en": "The Orthodox cathedral with remains of the ancient city in front."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-08-rumunsko-094.jpg",
+   "datum": "2026-08-05",
+   "cas": "10:46",
+   "p": [
+    44.173,
+    28.66
+   ],
+   "misto": "Constanta",
+   "w": 1200,
+   "h": 1600,
+   "nahled": "foto/2026-08-rumunsko/male/2026-08-rumunsko-094.jpg",
+   "velke": "foto/2026-08-rumunsko/velke/2026-08-rumunsko-094.jpg",
+   "popis": {
+    "cs": "Kupole mešity z ochozu minaretu.",
+    "en": "The mosque's dome from the minaret balcony."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-08-rumunsko-095.jpg",
+   "datum": "2026-08-05",
+   "cas": "10:46",
+   "p": [
+    44.174,
+    28.66
+   ],
+   "misto": "Constanta",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-08-rumunsko/male/2026-08-rumunsko-095.jpg",
+   "velke": "foto/2026-08-rumunsko/velke/2026-08-rumunsko-095.jpg",
+   "popis": {
+    "cs": "Přístav a Černé moře z minaretu.",
+    "en": "The harbour and the Black Sea from the minaret."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-08-rumunsko-102.jpg",
+   "datum": "2026-08-06",
+   "cas": "10:21",
+   "p": [
+    44.179,
+    28.651
+   ],
+   "misto": "Constanta",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-08-rumunsko/male/2026-08-rumunsko-102.jpg",
+   "velke": "foto/2026-08-rumunsko/velke/2026-08-rumunsko-102.jpg",
+   "popis": {
+    "cs": "Obraz staré městské věže v Muzeu umění.",
+    "en": "A painting of an old town tower in the Art Museum."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-08-rumunsko-103.jpg",
+   "datum": "2026-08-06",
+   "cas": "10:28",
+   "p": [
+    44.179,
+    28.651
+   ],
+   "misto": "Constanta",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-08-rumunsko/male/2026-08-rumunsko-103.jpg",
+   "velke": "foto/2026-08-rumunsko/velke/2026-08-rumunsko-103.jpg",
+   "popis": {
+    "cs": "Mořský přístav na obraze v místní sbírce.",
+    "en": "A harbour scene in the local collection."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-08-rumunsko-110.jpg",
+   "datum": "2026-08-06",
+   "cas": "11:04",
+   "p": [
+    44.179,
+    28.651
+   ],
+   "misto": "Constanta",
+   "w": 1200,
+   "h": 1600,
+   "nahled": "foto/2026-08-rumunsko/male/2026-08-rumunsko-110.jpg",
+   "velke": "foto/2026-08-rumunsko/velke/2026-08-rumunsko-110.jpg",
+   "popis": {
+    "cs": "Socha před budovou Muzea umění v Konstanci.",
+    "en": "A sculpture outside the Constanța Art Museum."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-08-rumunsko-119.jpg",
+   "datum": "2026-08-07",
+   "cas": "10:38",
+   "p": [
+    44.17,
+    28.637
+   ],
+   "misto": "Constanta",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-08-rumunsko/male/2026-08-rumunsko-119.jpg",
+   "velke": "foto/2026-08-rumunsko/velke/2026-08-rumunsko-119.jpg",
+   "popis": {
+    "cs": "Fontána v parku v Konstanci před odjezdem.",
+    "en": "A fountain in a Constanța park before departure."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-08-rumunsko-133.jpg",
+   "datum": "2026-08-07",
+   "cas": "19:32",
+   "p": [
+    44.441,
+    26.097
+   ],
+   "misto": "Bucharest",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-08-rumunsko/male/2026-08-rumunsko-133.jpg",
+   "velke": "foto/2026-08-rumunsko/velke/2026-08-rumunsko-133.jpg",
+   "popis": {
+    "cs": "Rumunské Athenaeum, koncertní síň z konce 19. století.",
+    "en": "The Romanian Athenaeum, a late 19th-century concert hall."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-08-rumunsko-136.jpg",
+   "datum": "2026-08-07",
+   "cas": "19:40",
+   "p": [
+    44.439,
+    26.097
+   ],
+   "misto": "Bucharest",
+   "w": 1200,
+   "h": 1600,
+   "nahled": "foto/2026-08-rumunsko/male/2026-08-rumunsko-136.jpg",
+   "velke": "foto/2026-08-rumunsko/velke/2026-08-rumunsko-136.jpg",
+   "popis": {
+    "cs": "Památník znovuzrození na náměstí Revoluce.",
+    "en": "The Memorial of Rebirth on Revolution Square."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-08-rumunsko-137.jpg",
+   "datum": "2026-08-07",
+   "cas": "19:41",
+   "p": [
+    44.439,
+    26.097
+   ],
+   "misto": "Bucharest",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-08-rumunsko/male/2026-08-rumunsko-137.jpg",
+   "velke": "foto/2026-08-rumunsko/velke/2026-08-rumunsko-137.jpg",
+   "popis": {
+    "cs": "Kostel Kretzulescu z červených cihel.",
+    "en": "The red-brick Kretzulescu Church."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-08-rumunsko-146.jpg",
+   "datum": "2026-08-07",
+   "cas": "20:26",
+   "p": [
+    44.427,
+    26.093
+   ],
+   "misto": "Bucuresti",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-08-rumunsko/male/2026-08-rumunsko-146.jpg",
+   "velke": "foto/2026-08-rumunsko/velke/2026-08-rumunsko-146.jpg",
+   "popis": {
+    "cs": "Palác parlamentu při západu slunce na konci bulváru s fontánami.",
+    "en": "The Palace of the Parliament at sunset at the end of a boulevard of fountains."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-08-rumunsko-151.jpg",
+   "datum": "2026-08-08",
+   "cas": "08:56",
+   "p": [
+    44.43,
+    26.087
+   ],
+   "misto": "Bucuresti",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-08-rumunsko/male/2026-08-rumunsko-151.jpg",
+   "velke": "foto/2026-08-rumunsko/velke/2026-08-rumunsko-151.jpg",
+   "popis": {
+    "cs": "Palác parlamentu, jedna z největších budov světa.",
+    "en": "The Palace of the Parliament, one of the largest buildings in the world."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-08-rumunsko-156.jpg",
+   "datum": "2026-08-08",
+   "cas": "10:00",
+   "p": [
+    44.425,
+    26.084
+   ],
+   "misto": "Bucuresti",
+   "w": 1200,
+   "h": 1600,
+   "nahled": "foto/2026-08-rumunsko/male/2026-08-rumunsko-156.jpg",
+   "velke": "foto/2026-08-rumunsko/velke/2026-08-rumunsko-156.jpg",
+   "popis": {
+    "cs": "Nová katedrála Spásy národa se zlatými kupolemi.",
+    "en": "The new People's Salvation Cathedral with its golden domes."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-08-rumunsko-161.jpg",
+   "datum": "2026-08-08",
+   "cas": "10:24",
+   "p": [
+    44.414,
+    26.096
+   ],
+   "misto": "Bucuresti",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-08-rumunsko/male/2026-08-rumunsko-161.jpg",
+   "velke": "foto/2026-08-rumunsko/velke/2026-08-rumunsko-161.jpg",
+   "popis": {
+    "cs": "Mauzoleum v parku Carol nad jezírkem.",
+    "en": "The mausoleum in Carol Park above a pond."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-08-rumunsko-179.jpg",
+   "datum": "2026-08-08",
+   "cas": "12:41",
+   "p": [
+    44.428,
+    26.086
+   ],
+   "misto": "Bucuresti",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-08-rumunsko/male/2026-08-rumunsko-179.jpg",
+   "velke": "foto/2026-08-rumunsko/velke/2026-08-rumunsko-179.jpg",
+   "popis": {
+    "cs": "Mramorový sál uvnitř Paláce parlamentu.",
+    "en": "A marble hall inside the Palace of the Parliament."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-08-rumunsko-181.jpg",
+   "datum": "2026-08-08",
+   "cas": "14:49",
+   "p": [
+    44.469,
+    26.092
+   ],
+   "misto": "Bucharest",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-08-rumunsko/male/2026-08-rumunsko-181.jpg",
+   "velke": "foto/2026-08-rumunsko/velke/2026-08-rumunsko-181.jpg",
+   "popis": {
+    "cs": "Zahrada Jarního paláce, bývalé rezidence Ceaușescových.",
+    "en": "The garden of the Spring Palace, the Ceaușescus' former residence."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-08-rumunsko-197.jpg",
+   "datum": "2026-08-09",
+   "cas": "13:51",
+   "p": [
+    44.434,
+    26.077
+   ],
+   "misto": "Bucuresti",
+   "w": 1200,
+   "h": 1600,
+   "nahled": "foto/2026-08-rumunsko/male/2026-08-rumunsko-197.jpg",
+   "velke": "foto/2026-08-rumunsko/velke/2026-08-rumunsko-197.jpg",
+   "popis": {
+    "cs": "Pomník v zeleni bukurešťského parku.",
+    "en": "A monument among the greenery of a Bucharest park."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-08-rumunsko-199.jpg",
+   "datum": "2026-08-09",
+   "cas": "13:54",
+   "p": [
+    44.434,
+    26.077
+   ],
+   "misto": "Bucuresti",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-08-rumunsko/male/2026-08-rumunsko-199.jpg",
+   "velke": "foto/2026-08-rumunsko/velke/2026-08-rumunsko-199.jpg",
+   "popis": {
+    "cs": "Pravoslavný kostel ve stínu stromů.",
+    "en": "An Orthodox church in the shade of trees."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-08-rumunsko-203.jpg",
+   "datum": "2026-08-09",
+   "cas": "14:45",
+   "p": [
+    44.468,
+    26.078
+   ],
+   "misto": "Bucharest",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-08-rumunsko/male/2026-08-rumunsko-203.jpg",
+   "velke": "foto/2026-08-rumunsko/velke/2026-08-rumunsko-203.jpg",
+   "popis": {
+    "cs": "Vítězný oblouk v Bukurešti.",
+    "en": "The Arch of Triumph in Bucharest."
+   },
+   "titulni": false
+  }
+ ]
+}
