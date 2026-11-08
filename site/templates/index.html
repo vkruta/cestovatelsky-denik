@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+{% block obsah %}
+<main>
+  <section class="obal uvod-hlava">
+    <h1>{{ t.titul }}</h1>
+    <p>{{ t.podtitul }}</p>
+    <div class="souhrn">
+      <div><b>{{ souhrn.cest }}</b><small>{{ t.cest }}</small></div>
+      <div><b>{{ souhrn.zemi }}</b><small>{{ t.zemi }}</small></div>
+      <div><b>{{ souhrn.dni }}</b><small>{{ t.dni_na_cestach }}</small></div>
+      <div><b>{{ souhrn.km|cislo(lang) }}</b><small>{{ t.km }}</small></div>
+    </div>
+  </section>
+  <section class="obal"><div id="mapa-vse" class="mapa mapa-vse" aria-label="{{ t.vsechny_cesty }}"></div></section>
+  <section class="obal karty">
+    {% for k in karty %}
+    <a class="karta" href="{{ k.url }}" data-slug="{{ k.slug }}">
+      <div class="obr">
+        {% if k.titulni %}<img src="{{ root }}{{ k.titulni.nahled }}" alt="{{ k.titulni.popis[lang] }}" loading="lazy">
+        {% else %}<svg data-nahled-trasy="{{ k.slug }}" viewBox="0 0 300 200" preserveAspectRatio="xMidYMid meet" aria-hidden="true"></svg>{% endif %}
+      </div>
+      <div class="telo">
+        <span class="kdy">{{ k.rozsah }} · {{ k.zeme|join(", ") }}</span>
+        <h2>{{ k.nazev }}</h2>
+        {% if k.obsah.perex %}<p>{{ k.obsah.perex }}</p>{% endif %}
+        <span class="udaje data">{{ k.dni }} {{ t.dni }} · {{ k.km|cislo(lang) }} {{ t.km }}</span>
+      </div>
+    </a>
+    {% endfor %}
+  </section>
+</main>
+{% endblock %}
+{% block skript %}<script>DenikMapa.prehled("mapa-vse", {{ mapa_json|safe }});</script>{% endblock %}

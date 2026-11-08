@@ -1,0 +1,745 @@
+{
+ "fotky": [
+  {
+   "soubor": "2026-07-skandinavie-009.jpg",
+   "datum": "2026-07-01",
+   "cas": "17:11",
+   "p": [
+    57.715,
+    11.955
+   ],
+   "misto": "Goeteborg",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-07-skandinavie/male/2026-07-skandinavie-009.jpg",
+   "velke": "foto/2026-07-skandinavie/velke/2026-07-skandinavie-009.jpg",
+   "popis": {
+    "cs": "Výhled na göteborský přístav hned první den.",
+    "en": "A view over Gothenburg harbour on day one."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-07-skandinavie-019.jpg",
+   "datum": "2026-07-01",
+   "cas": "19:21",
+   "p": [
+    57.704,
+    11.954
+   ],
+   "misto": "Goeteborg",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-07-skandinavie/male/2026-07-skandinavie-019.jpg",
+   "velke": "foto/2026-07-skandinavie/velke/2026-07-skandinavie-019.jpg",
+   "popis": {
+    "cs": "Přístavní jeřáby připomínají loděnice, které tu kdysi stály.",
+    "en": "Harbour cranes recall the shipyards that once stood here."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-07-skandinavie-021.jpg",
+   "datum": "2026-07-01",
+   "cas": "19:28",
+   "p": [
+    57.706,
+    11.957
+   ],
+   "misto": "Goeteborg",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-07-skandinavie/male/2026-07-skandinavie-021.jpg",
+   "velke": "foto/2026-07-skandinavie/velke/2026-07-skandinavie-021.jpg",
+   "popis": {
+    "cs": "Městský přívoz na řece Göta älv.",
+    "en": "A city ferry on the Göta älv river."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-07-skandinavie-031.jpg",
+   "datum": "2026-07-01",
+   "cas": "19:51",
+   "p": [
+    57.707,
+    11.943
+   ],
+   "misto": "Goeteborg",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-07-skandinavie/male/2026-07-skandinavie-031.jpg",
+   "velke": "foto/2026-07-skandinavie/velke/2026-07-skandinavie-031.jpg",
+   "popis": {
+    "cs": "Nová čtvrť u vody s mrakodrapem Karlatornet.",
+    "en": "A new waterfront district with the Karlatornet tower."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-07-skandinavie-038.jpg",
+   "datum": "2026-07-01",
+   "cas": "21:54",
+   "p": [
+    57.715,
+    11.955
+   ],
+   "misto": "Goeteborg",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-07-skandinavie/male/2026-07-skandinavie-038.jpg",
+   "velke": "foto/2026-07-skandinavie/velke/2026-07-skandinavie-038.jpg",
+   "popis": {
+    "cs": "Západ slunce nad střechami Göteborgu.",
+    "en": "Sunset over the roofs of Gothenburg."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-07-skandinavie-039.jpg",
+   "datum": "2026-07-02",
+   "cas": "07:30",
+   "p": [
+    57.715,
+    11.955
+   ],
+   "misto": "Goeteborg",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-07-skandinavie/male/2026-07-skandinavie-039.jpg",
+   "velke": "foto/2026-07-skandinavie/velke/2026-07-skandinavie-039.jpg",
+   "popis": {
+    "cs": "Ráno v přístavu kotví loď švédské pobřežní stráže.",
+    "en": "A Swedish Coast Guard ship in the harbour in the morning."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-07-skandinavie-043.jpg",
+   "datum": "2026-07-02",
+   "cas": "08:44",
+   "p": [
+    57.71,
+    11.976
+   ],
+   "misto": "Goeteborg",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-07-skandinavie/male/2026-07-skandinavie-043.jpg",
+   "velke": "foto/2026-07-skandinavie/velke/2026-07-skandinavie-043.jpg",
+   "popis": {
+    "cs": "Elektromobil z půjčovny na celou cestu po Norsku.",
+    "en": "The rental electric car for the whole Norway road trip."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-07-skandinavie-051.jpg",
+   "datum": "2026-07-02",
+   "cas": "17:40",
+   "p": [
+    60.531,
+    8.177
+   ],
+   "misto": "Geilo",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-07-skandinavie/male/2026-07-skandinavie-051.jpg",
+   "velke": "foto/2026-07-skandinavie/velke/2026-07-skandinavie-051.jpg",
+   "popis": {
+    "cs": "Deštivý večer v Geilu, výhled z balkonu.",
+    "en": "A rainy evening in Geilo, seen from the balcony."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-07-skandinavie-055.jpg",
+   "datum": "2026-07-03",
+   "cas": "10:18",
+   "p": [
+    60.876,
+    8.465
+   ],
+   "misto": "Hemsedal",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-07-skandinavie/male/2026-07-skandinavie-055.jpg",
+   "velke": "foto/2026-07-skandinavie/velke/2026-07-skandinavie-055.jpg",
+   "popis": {
+    "cs": "Vodopád v údolí Hemsedal.",
+    "en": "A waterfall in the Hemsedal valley."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-07-skandinavie-063.jpg",
+   "datum": "2026-07-03",
+   "cas": "11:30",
+   "p": [
+    61.047,
+    7.813
+   ],
+   "misto": "Laerdalsoyri",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-07-skandinavie/male/2026-07-skandinavie-063.jpg",
+   "velke": "foto/2026-07-skandinavie/velke/2026-07-skandinavie-063.jpg",
+   "popis": {
+    "cs": "Dřevěný sloupový kostel v Borgundu.",
+    "en": "The Borgund stave church."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-07-skandinavie-066.jpg",
+   "datum": "2026-07-03",
+   "cas": "13:35",
+   "p": [
+    60.931,
+    7.269
+   ],
+   "misto": "Aurlandsvangen",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-07-skandinavie/male/2026-07-skandinavie-066.jpg",
+   "velke": "foto/2026-07-skandinavie/velke/2026-07-skandinavie-066.jpg",
+   "popis": {
+    "cs": "Modře nasvícená jeskyně v Lærdalském tunelu, nejdelším silničním tunelu světa.",
+    "en": "The blue-lit cave inside the Lærdal Tunnel, the longest road tunnel in the world."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-07-skandinavie-069.jpg",
+   "datum": "2026-07-03",
+   "cas": "14:57",
+   "p": [
+    60.726,
+    6.487
+   ],
+   "misto": "Voss",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-07-skandinavie/male/2026-07-skandinavie-069.jpg",
+   "velke": "foto/2026-07-skandinavie/velke/2026-07-skandinavie-069.jpg",
+   "popis": {
+    "cs": "Vodopád Tvindefossen nedaleko Vossu.",
+    "en": "Tvindefossen waterfall near Voss."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-07-skandinavie-086.jpg",
+   "datum": "2026-07-03",
+   "cas": "17:13",
+   "p": [
+    60.656,
+    6.4
+   ],
+   "misto": "Voss",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-07-skandinavie/male/2026-07-skandinavie-086.jpg",
+   "velke": "foto/2026-07-skandinavie/velke/2026-07-skandinavie-086.jpg",
+   "popis": {
+    "cs": "Ovce a travnaté střechy nad Vossem.",
+    "en": "Sheep and turf roofs above Voss."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-07-skandinavie-089.jpg",
+   "datum": "2026-07-04",
+   "cas": "09:34",
+   "p": [
+    60.646,
+    6.058
+   ],
+   "misto": "Dale",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-07-skandinavie/male/2026-07-skandinavie-089.jpg",
+   "velke": "foto/2026-07-skandinavie/velke/2026-07-skandinavie-089.jpg",
+   "popis": {
+    "cs": "Ranní mlha a zrcadlení na vodě u Dale.",
+    "en": "Morning mist and reflections near Dale."
+   },
+   "titulni": true
+  },
+  {
+   "soubor": "2026-07-skandinavie-097.jpg",
+   "datum": "2026-07-04",
+   "cas": "12:56",
+   "p": [
+    60.398,
+    5.325
+   ],
+   "misto": "Bergen",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-07-skandinavie/male/2026-07-skandinavie-097.jpg",
+   "velke": "foto/2026-07-skandinavie/velke/2026-07-skandinavie-097.jpg",
+   "popis": {
+    "cs": "Dvorky za hanzovním nábřežím Bryggen v Bergenu.",
+    "en": "The back alleys of the Hanseatic Bryggen wharf in Bergen."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-07-skandinavie-099.jpg",
+   "datum": "2026-07-04",
+   "cas": "13:07",
+   "p": [
+    60.397,
+    5.33
+   ],
+   "misto": "Bergen",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-07-skandinavie/male/2026-07-skandinavie-099.jpg",
+   "velke": "foto/2026-07-skandinavie/velke/2026-07-skandinavie-099.jpg",
+   "popis": {
+    "cs": "Výhled na Bergen z kopce nad městem.",
+    "en": "Bergen from the hills above the city."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-07-skandinavie-118.jpg",
+   "datum": "2026-07-04",
+   "cas": "17:28",
+   "p": [
+    60.688,
+    4.919
+   ],
+   "misto": "Manger",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-07-skandinavie/male/2026-07-skandinavie-118.jpg",
+   "velke": "foto/2026-07-skandinavie/velke/2026-07-skandinavie-118.jpg",
+   "popis": {
+    "cs": "Skalnaté pobřeží u Mangeru.",
+    "en": "The rocky coast near Manger."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-07-skandinavie-119.jpg",
+   "datum": "2026-07-04",
+   "cas": "17:29",
+   "p": [
+    60.688,
+    4.919
+   ],
+   "misto": "Manger",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-07-skandinavie/male/2026-07-skandinavie-119.jpg",
+   "velke": "foto/2026-07-skandinavie/velke/2026-07-skandinavie-119.jpg",
+   "popis": {
+    "cs": "Dřevěná stezka podél moře.",
+    "en": "A wooden boardwalk along the sea."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-07-skandinavie-128.jpg",
+   "datum": "2026-07-05",
+   "cas": "10:48",
+   "p": [
+    60.39,
+    5.84
+   ],
+   "misto": "Tysse",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-07-skandinavie/male/2026-07-skandinavie-128.jpg",
+   "velke": "foto/2026-07-skandinavie/velke/2026-07-skandinavie-128.jpg",
+   "popis": {
+    "cs": "Vodopád u Tysse.",
+    "en": "A waterfall near Tysse."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-07-skandinavie-136.jpg",
+   "datum": "2026-07-05",
+   "cas": "13:09",
+   "p": [
+    60.061,
+    5.971
+   ],
+   "misto": "Rosendal",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-07-skandinavie/male/2026-07-skandinavie-136.jpg",
+   "velke": "foto/2026-07-skandinavie/velke/2026-07-skandinavie-136.jpg",
+   "popis": {
+    "cs": "Trajektem přes fjord směrem k Rosendalu.",
+    "en": "Crossing the fjord by ferry towards Rosendal."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-07-skandinavie-154.jpg",
+   "datum": "2026-07-05",
+   "cas": "15:42",
+   "p": [
+    59.986,
+    6.043
+   ],
+   "misto": "Rosendal",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-07-skandinavie/male/2026-07-skandinavie-154.jpg",
+   "velke": "foto/2026-07-skandinavie/velke/2026-07-skandinavie-154.jpg",
+   "popis": {
+    "cs": "Údolí nad Rosendalem s výhledem na fjord.",
+    "en": "The valley above Rosendal with a view of the fjord."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-07-skandinavie-163.jpg",
+   "datum": "2026-07-05",
+   "cas": "17:33",
+   "p": [
+    60.002,
+    5.982
+   ],
+   "misto": "Rosendal",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-07-skandinavie/male/2026-07-skandinavie-163.jpg",
+   "velke": "foto/2026-07-skandinavie/velke/2026-07-skandinavie-163.jpg",
+   "popis": {
+    "cs": "Kozy odpočívají přímo na cestě.",
+    "en": "Goats resting right on the path."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-07-skandinavie-165.jpg",
+   "datum": "2026-07-05",
+   "cas": "22:27",
+   "p": [
+    60.007,
+    5.989
+   ],
+   "misto": "Rosendal",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-07-skandinavie/male/2026-07-skandinavie-165.jpg",
+   "velke": "foto/2026-07-skandinavie/velke/2026-07-skandinavie-165.jpg",
+   "popis": {
+    "cs": "Západ slunce nad Hardangerfjordem.",
+    "en": "Sunset over the Hardangerfjord."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-07-skandinavie-168.jpg",
+   "datum": "2026-07-06",
+   "cas": "09:18",
+   "p": [
+    59.948,
+    6.584
+   ],
+   "misto": "Odda",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-07-skandinavie/male/2026-07-skandinavie-168.jpg",
+   "velke": "foto/2026-07-skandinavie/velke/2026-07-skandinavie-168.jpg",
+   "popis": {
+    "cs": "Dvojitý vodopád Låtefossen u silnice nedaleko Oddy.",
+    "en": "The twin Låtefossen waterfall by the road near Odda."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-07-skandinavie-172.jpg",
+   "datum": "2026-07-06",
+   "cas": "10:21",
+   "p": [
+    59.849,
+    6.957
+   ],
+   "misto": "Odda",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-07-skandinavie/male/2026-07-skandinavie-172.jpg",
+   "velke": "foto/2026-07-skandinavie/velke/2026-07-skandinavie-172.jpg",
+   "popis": {
+    "cs": "Jezera a sněhová pole na horské planině nad Oddou.",
+    "en": "Lakes and snowfields on the mountain plateau above Odda."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-07-skandinavie-177.jpg",
+   "datum": "2026-07-06",
+   "cas": "10:50",
+   "p": [
+    59.833,
+    7.171
+   ],
+   "misto": "Hovden",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-07-skandinavie/male/2026-07-skandinavie-177.jpg",
+   "velke": "foto/2026-07-skandinavie/velke/2026-07-skandinavie-177.jpg",
+   "popis": {
+    "cs": "Ovce u horského jezera.",
+    "en": "Sheep by a mountain lake."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-07-skandinavie-185.jpg",
+   "datum": "2026-07-06",
+   "cas": "13:59",
+   "p": [
+    59.741,
+    8.174
+   ],
+   "misto": "Amot",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-07-skandinavie/male/2026-07-skandinavie-185.jpg",
+   "velke": "foto/2026-07-skandinavie/velke/2026-07-skandinavie-185.jpg",
+   "popis": {
+    "cs": "Obří oči hledí do krajiny, umělecká instalace na vyhlídce.",
+    "en": "Giant eyes gaze over the landscape, an art installation at a viewpoint."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-07-skandinavie-205.jpg",
+   "datum": "2026-07-06",
+   "cas": "17:17",
+   "p": [
+    59.874,
+    8.715
+   ],
+   "misto": "Rjukan",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-07-skandinavie/male/2026-07-skandinavie-205.jpg",
+   "velke": "foto/2026-07-skandinavie/velke/2026-07-skandinavie-205.jpg",
+   "popis": {
+    "cs": "Hora Gaustatoppen nad Rjukanem.",
+    "en": "Gaustatoppen mountain above Rjukan."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-07-skandinavie-212.jpg",
+   "datum": "2026-07-07",
+   "cas": "12:52",
+   "p": [
+    60.221,
+    10.365
+   ],
+   "misto": "Jevnaker",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-07-skandinavie/male/2026-07-skandinavie-212.jpg",
+   "velke": "foto/2026-07-skandinavie/velke/2026-07-skandinavie-212.jpg",
+   "popis": {
+    "cs": "Muzeum The Twist v sochařském parku Kistefos se klene přes řeku.",
+    "en": "The Twist museum at the Kistefos sculpture park spans the river."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-07-skandinavie-235.jpg",
+   "datum": "2026-07-07",
+   "cas": "13:39",
+   "p": [
+    60.221,
+    10.369
+   ],
+   "misto": "Jevnaker",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-07-skandinavie/male/2026-07-skandinavie-235.jpg",
+   "velke": "foto/2026-07-skandinavie/velke/2026-07-skandinavie-235.jpg",
+   "popis": {
+    "cs": "Socha s vodopádem v parku Kistefos.",
+    "en": "A waterfall sculpture in the Kistefos park."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-07-skandinavie-237.jpg",
+   "datum": "2026-07-07",
+   "cas": "16:42",
+   "p": [
+    59.916,
+    10.73
+   ],
+   "misto": "Oslo",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-07-skandinavie/male/2026-07-skandinavie-237.jpg",
+   "velke": "foto/2026-07-skandinavie/velke/2026-07-skandinavie-237.jpg",
+   "popis": {
+    "cs": "Královský palác v Oslu.",
+    "en": "The Royal Palace in Oslo."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-07-skandinavie-245.jpg",
+   "datum": "2026-07-07",
+   "cas": "17:14",
+   "p": [
+    59.901,
+    10.729
+   ],
+   "misto": "Oslo",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-07-skandinavie/male/2026-07-skandinavie-245.jpg",
+   "velke": "foto/2026-07-skandinavie/velke/2026-07-skandinavie-245.jpg",
+   "popis": {
+    "cs": "Pevnost Akershus z paluby přívozu.",
+    "en": "Akershus Fortress from the ferry deck."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-07-skandinavie-257.jpg",
+   "datum": "2026-07-07",
+   "cas": "19:18",
+   "p": [
+    59.904,
+    10.754
+   ],
+   "misto": "Oslo",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-07-skandinavie/male/2026-07-skandinavie-257.jpg",
+   "velke": "foto/2026-07-skandinavie/velke/2026-07-skandinavie-257.jpg",
+   "popis": {
+    "cs": "Muzeum Munch na nábřeží v Oslu.",
+    "en": "The Munch museum on the Oslo waterfront."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-07-skandinavie-264.jpg",
+   "datum": "2026-07-08",
+   "cas": "09:24",
+   "p": [
+    59.977,
+    10.677
+   ],
+   "misto": "Sjolyststranda",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-07-skandinavie/male/2026-07-skandinavie-264.jpg",
+   "velke": "foto/2026-07-skandinavie/velke/2026-07-skandinavie-264.jpg",
+   "popis": {
+    "cs": "Socha skokana pod Holmenkollenem.",
+    "en": "A ski jumper statue below Holmenkollen."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-07-skandinavie-265.jpg",
+   "datum": "2026-07-08",
+   "cas": "09:46",
+   "p": [
+    59.967,
+    10.667
+   ],
+   "misto": "Sjolyststranda",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-07-skandinavie/male/2026-07-skandinavie-265.jpg",
+   "velke": "foto/2026-07-skandinavie/velke/2026-07-skandinavie-265.jpg",
+   "popis": {
+    "cs": "Skokanský můstek Holmenkollen nad Oslem.",
+    "en": "The Holmenkollen ski jump above Oslo."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-07-skandinavie-266.jpg",
+   "datum": "2026-07-08",
+   "cas": "09:57",
+   "p": [
+    59.964,
+    10.666
+   ],
+   "misto": "Sjolyststranda",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-07-skandinavie/male/2026-07-skandinavie-266.jpg",
+   "velke": "foto/2026-07-skandinavie/velke/2026-07-skandinavie-266.jpg",
+   "popis": {
+    "cs": "Pod konstrukcí můstku Holmenkollen.",
+    "en": "Beneath the Holmenkollen ski jump."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-07-skandinavie-269.jpg",
+   "datum": "2026-07-09",
+   "cas": "09:01",
+   "p": [
+    57.713,
+    11.966
+   ],
+   "misto": "Goeteborg",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-07-skandinavie/male/2026-07-skandinavie-269.jpg",
+   "velke": "foto/2026-07-skandinavie/velke/2026-07-skandinavie-269.jpg",
+   "popis": {
+    "cs": "Plachetnice Viking v göteborském přístavu.",
+    "en": "The barque Viking in Gothenburg harbour."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-07-skandinavie-270.jpg",
+   "datum": "2026-07-09",
+   "cas": "09:03",
+   "p": [
+    57.713,
+    11.966
+   ],
+   "misto": "Goeteborg",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-07-skandinavie/male/2026-07-skandinavie-270.jpg",
+   "velke": "foto/2026-07-skandinavie/velke/2026-07-skandinavie-270.jpg",
+   "popis": {
+    "cs": "Zvedací most Hisingsbron přes Göta älv.",
+    "en": "The Hisingsbron lift bridge over the Göta älv."
+   },
+   "titulni": false
+  },
+  {
+   "soubor": "2026-07-skandinavie-276.jpg",
+   "datum": "2026-07-09",
+   "cas": "09:19",
+   "p": [
+    57.717,
+    11.958
+   ],
+   "misto": "Goeteborg",
+   "w": 1600,
+   "h": 1200,
+   "nahled": "foto/2026-07-skandinavie/male/2026-07-skandinavie-276.jpg",
+   "velke": "foto/2026-07-skandinavie/velke/2026-07-skandinavie-276.jpg",
+   "popis": {
+    "cs": "Mrakodrap Karlatornet se zrcadlí v kanálu.",
+    "en": "The Karlatornet tower reflected in a canal."
+   },
+   "titulni": false
+  }
+ ]
+}
