@@ -12,14 +12,16 @@
   /* --- podkladová mapa: OSM dlaždice + vektorové hranice jako záloha --- */
   function podklad(id) {
     var map = L.map(id, { scrollWheelZoom: false, zoomSnap: 0.25, attributionControl: true }).setView([50, 10], 4);
+    // záložní vrstva se státy leží POD dlaždicemi (tilePane má z-index 200), vidět je jen když se dlaždice nenačtou
+    map.createPane("zaloha").style.zIndex = 150;
     var svet = L.layerGroup().addTo(map);
     fetch(D.root + "static/svet.json").then(function (r) { return r.json(); }).then(function (topo) {
       var geo = topojson.feature(topo, topo.objects.countries);
       L.geoJSON(geo, {
         interactive: false,
+        pane: "zaloha",
         style: function () { return { color: token("--linka"), weight: 1, fillColor: token("--plocha"), fillOpacity: 1 }; }
       }).addTo(svet);
-      svet.eachLayer(function (l) { l.bringToBack && l.bringToBack(); });
     }).catch(function () {});
     L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
       maxZoom: 18, attribution: "© OpenStreetMap", className: "dlazdice"
